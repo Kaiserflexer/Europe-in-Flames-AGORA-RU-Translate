@@ -1,0 +1,149 @@
+﻿l_english:
+ ARG_greater_confederation:0 "Greater Argentine Confederation"
+ ARG_greater_confederation_DEF:0 "the Greater Argentine Confederation"
+ ARG_greater_confederation_ADJ:0 "Greater Argentine Confederation"
+ ARG_military_junta:0 "Argentine Military Junta"
+ ARG_military_junta_DEF:0 "the Argentine Military Junta"
+ ARG_military_junta_ADJ:0 "Argentine Military Junta"
+
+ CHL_anarchist_global_commune:0 "Global Anarchist Commune"
+ CHL_anarchist_global_commune_DEF:0 "the Global Anarchist Commune"
+ CHL_anarchist_global_commune_ADJ:0 "Global Anarchist Commune"
+
+ BOL_government:0 "Bolivian Government"
+ BOL_armed_forces:0 "Bolivian Armed Forces"
+ BOL_government_DEF:0 "the Bolivian Government"
+ BOL_government_ADJ:0 "Bolivian Government"
+ BOL_armed_forces_DEF:0 "the Bolivian Armed Forces"
+ BOL_armed_forces_ADJ:0 "Bolivian Armed Forces"
+
+ SAU_UNIFIED:0 "Union of South American Socialist Republics"
+ SAU_UNIFIED_DEF:0 "the Union of South American Socialist Republics"
+ SAU_UNIFIED_ADJ:0 "USASR"
+
+ GBO:0 "Greater Bolivia"
+ GBO_DEF:0 "Greater Bolivia"
+ GBO_ADJ:0 "Bolivian"
+
+ GCO_UNIFIED_communism:0 "Commune of Gran Colombia"
+ GCO_UNIFIED_fascism:0 "Gran Colombia"
+ GCO_UNIFIED_communism_DEF:0 "the Commune of Gran Colombia"
+ GCO_UNIFIED_fascism_DEF:0 "the Gran Colombia"
+ GCO_UNIFIED_communism_ADJ:0 "Gran Colombian"
+ GCO_UNIFIED_fascism_ADJ:0 "Gran Colombian"
+
+ VRP_UNIFIED:0 "Viceroyalty of Rio de la Plata"
+ VRP_UNIFIED_DEF:0 "the Viceroyalty of Rio de la Plata"
+ VRP_UNIFIED_ADJ:0 "Rioplatense"
+
+ RCA_UNIFIED_communism:0 "Commune of Central America"
+ RCA_UNIFIED_fascism:0 "Authoritative Republic of Central America"
+ RCA_UNIFIED_communism_DEF:0 "the Commune of Central America"
+ RCA_UNIFIED_fascism_DEF:0 "the Authoritative Republic of Central America"
+ RCA_UNIFIED_fascism_ADJ:0 "Republic of Central America"
+ RCA_UNIFIED_communism_ADJ:0 "Commune of Central America"
+
+ PRE_UNIFIED:0 "Peruvian Empire"
+ PRE_UNIFIED_DEF:0 "the Peruvian Empire"
+ PRE_UNIFIED_ADJ:0 "Imperialist Peruvians"
+
+ RBR_UNIFIED:0 "Republic of Brazil"
+ RBR_UNIFIED_DEF:0 "the Republic of Brazil"
+ RBR_UNIFIED_ADJ:0 "Brazilian"
+ 
+ PBC_UNIFYING_fascism:0 "Unionist Allience"
+ PBC_UNIFYING_fascism_DEF:0 "the Unionist Allience"
+
+ INC_UNIFIED:0 "Inca Empire"
+ INC_UNIFIED_DEF:0 "the Inca Empire"
+ INC_UNIFIED_ADJ:0 "Incas"
+
+ CHL_UNIFIED:0 "Chilean Republic"
+ CHL_UNIFIED_DEF:0 "the Chilean Republic"
+ CHL_UNIFIED_ADJ:0 "Chileans"
+
+ PBC_UNIFIED_communism:0 "Peru-Bolivian Commune"
+ PBC_UNIFIED_communism_DEF:0 "the Peru-Bolivian Commune"
+ PBC_UNIFIED_communism_ADJ:0 "Peru-Bolivian"
+ PBC_UNIFIED_fascism:0 "Peru-Bolivian Confederation"
+ PBC_UNIFIED_fascism_DEF:0 "the Peru-Bolivian Confederation"
+ PBC_UNIFIED_fascism_ADJ:0 "Peru-Bolivian"
+
+ RPE_UNIFIED_neutrality:0 "Rioplatense Empire"
+ RPE_UNIFIED_fascism:0 "Rioplatense Empire"
+ RPE_UNIFIED_neutrality_DEF:0 "the Rioplatense Empire"
+ RPE_UNIFIED_fascism_DEF:0 "the Rioplatense Empire"
+ RPE_UNIFIED_democratic:0 "Rioplatense Republic"
+ RPE_UNIFIED_democratic_DEF:0 "the Rioplatense Republic"
+ RPE_UNIFIED_communism:0 "Rioplatense Union"
+ RPE_UNIFIED_communism_DEF:0 "the Rioplatense Union"
+ RPE_UNIFIED_ADJ:0 "Rioplatense"
+
+ LGA_federal_neutrality:0 "Liga Federal"
+ LGA_federal_fascism:0 "Liga Federal"
+ LGA_federal_communism:0 "Unión de los Pueblos Libres"
+ LGA_federal_democratic:0 "Federación Libre"
+ LGA_federal_neutrality_DEF:0 "the Liga Federal"
+ LGA_federal_fascism_DEF:0 "the Liga Federal"
+ LGA_federal_communism_DEF:0 "the Unión de los Pueblos Libres"
+ LGA_federal_democratic_DEF:0 "the Federación Libre"
+ LGA_federal_ADJ:0 "Liga Federal"
+
+ BRA_URG:0 "Brazilian Dominion of Uruguay"
+ BRA_URG_DEF:0 "the Brazilian Dominion of Uruguay"
+ BRA_URG_ADJ:0 "Uruguayans"
+
+ BRA_LIB:0 "Brazilian Dominion of Liberia"
+ BRA_LIB_DEF:0 "the Brazilian Dominion of Liberia"
+ BRA_LIB_ADJ:0 "Liberians"
+
+ HSPAM:0 "United Republics of Latin America"
+ HSPAM_DEF:0 "the United Republics of Latin America"
+ HSPAM_ADJ:0 "Latin Americans"
+
+ PRU_naval_junta:0 "Peruvian Naval Junta"
+ PRU_military_junta:0 "Peruvian Military Junta"
+ PRU_naval_junta_DEF:0 "the Peruvian Naval Junta"
+ PRU_military_junta_DEF:0 "the Peruvian Military Junta"
+ 
+ UCO_unified:0 "United States of Colombia"
+ UCO_unified_DEF:0 "the United States of Colombia"
+ UCO_unified_ADJ:0 "Colombian"
+
+ GRC_UNIFIED:0 "Gran Colombia"
+ GRC_UNIFIED_DEF:0 "the Gran Colombia"
+ GRC_UNIFIED_ADJ:0 "Colombian"
+
+ BRI_UNIFIED:0 "Empire of Brazil"
+ BRI_UNIFIED_DEF:0 "the Empire of Brazil"
+ BRI_UNIFIED_ADJ:0 "Brazilian Imperialists"
+
+ BRA_USA_UNIFIED:0 "United States of Brazil"
+ BRA_USA_UNIFIED_DEF:0 "the United States of Brazil"
+ BRA_USA_UNIFIED_ADJ:0 "Brazilian"
+
+ BRA_COMMUNIST:0 "Commune of Brazil"
+ BRA_COMMUNIST_DEF:0 "the Commune of Brazil"
+ BRA_COMMUNIST_ADJ:0 "Brazilian"
+
+ BRA_FASCIST:0 "Integralist Brazil"
+ BRA_FASCIST_DEF:0 "Integralist Brazil"
+ BRA_FASCIST_ADJ:0 "Integralists"
+
+ COL_gaitan_war:0 "Gaitanist Colombia"
+ COL_gaitan_war_DEF:0 "the Gaitanist Colombia"
+ COL_gaitan_war_ADJ:0 "of the Gaitanist Colombia"
+
+ COL_azul_war:0 "Traditionalist Colombia"
+ COL_azul_war_DEF:0 "the Traditionalist Colombia"
+ COL_azul_war_ADJ:0 "of the Traditionalist Colombia"
+
+ COL_militar_gov:0 " Transitional Government of Colombia"
+ COL_militar_gov_DEF:0 "the Transitional Government of Colombia"
+ COL_militar_gov_ADJ:0 "of the Transitional Government of Colombia"
+
+ COL_rojas_pinilla_war:0 "General Command of Colombia"
+ COL_rojas_pinilla_war_DEF:0 "the General Command of Colombia"
+ COL_rojas_pinilla_war_ADJ:0 "of the General Command of Colombia"
+ 
+ DEN_revo:0 "Revolutionary Denmark"

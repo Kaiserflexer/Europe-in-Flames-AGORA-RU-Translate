@@ -1,0 +1,5 @@
+l_english:
+ per_communist_state:0 "Communist State"
+ per_fascist_state:0 "Fascist State"
+ per_democratic_state:0 "Democratic State"
+ per_royal_state:0 "Royal State"

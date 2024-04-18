@@ -1,0 +1,128 @@
+﻿l_russian:
+ MIT_neutrality:0 "Миттельафрика"
+ MIT_neutrality_communism_DEF:0 "Миттельафрика"
+ MIT_neutrality_party:0 "Колониальное правительство"
+ MIT_democratic:0 "Республика Миттелафрика"
+ MIT_democratic_DEF:0 "Миттелафрика"
+ MIT_fascism:0 "Миттелафрика"
+ MIT_fascism_DEF:0 "Миттелафрика"
+ MIT_communism:0 "Миттелафрика"
+ MIT_communism_DEF:0 "Миттелафрика"
+ MIT_fascism_ADJ:0 "Миттельафриканск."
+ MIT_democratic_ADJ:0 "Миттельафриканск."
+ MIT_neutrality_ADJ:0 "Миттельафриканск."
+ MIT_communism_ADJ:0 "Миттельафриканск." Рейх"
+ 
+ GER_AUS_HUN_UNION_neutrality:0 "Великая Германо-Венгрия"
+ GER_AUS_HUN_UNION_neutrality_DEF:0 "Великая Германо-Венгрия"
+ 
+ GER_AUS_HUN_SLAV_UNION_neutrality:0 "Великий Германо-Венгерско-Славянский Союз "
+ GER_AUS_HUN_SLAV_UNION_neutrality_DEF:0 "Великий Германо-Венгерско-Славянский Союз
+ 
+ GER_AUS_HUN_SLAV_AST_UNION_neutrality:0 "Германо-Венгро-Славяно-Австралия"
+ GER_AUS_HUN_SLAV_AST_UNION_neutrality_DEF:0 "Германо-Венгро-Славяно-Австралия
+ 
+ RHI_neutrality:0 "Королевство Рейнланд"
+ RHI_neutrality_communism_DEF:0 "Рейнланд"
+ RHI_democratic:0 "Республика Рейнланд"
+ RHI_democratic_DEF:0 "Рейнланд"
+ RHI_fascism:0 "Рейнланд"
+ RHI_fascism_DEF:0 "Рейнланд"
+ RHI_communism:0 "Рейнланд"
+ RHI_communism_DEF:0 "Рейнланд"
+ RHI_fascism_ADJ:0 "Рейнланд"
+ RHI_democratic_ADJ:0 "Рейнланд"
+ RHI_neutrality_ADJ:0 "Рейнланд"
+ RHI_communism_ADJ:0 "Рейнланд"
+ 
+ GEA_neutrality:0 "Германская Восточная Азия"
+ GEA_neutrality_communism_DEF:0 "Германская Восточная Азия"
+ GEA_democratic:0 "Германская Восточноазиатская Республика"
+ GEA_democratic_DEF:0 "Германская Восточная Азия"
+ GEA_fascism:0 "Германская Восточная Азия"
+ GEA_fascism_DEF:0 "Германская Восточная Азия"
+ GEA_communism:0 "Германская Восточная Азия"
+ GEA_communism_DEF:0 "Германская Восточная Азия"
+ GEA_fascism_ADJ:0 "Германская Восточная Азия"
+ GEA_democratic_ADJ:0 "Германская Восточная Азия"
+ GEA_neutrality_ADJ:0 "Германская Восточная Азия"
+ GEA_communism_ADJ:0 "Германская Восточная Азия"
+ 
+ GER_OTT_neutrality:0 "Османская Империя"
+ GER_OTT_neutrality_DEF:0 "Османская Империя"
+ 
+ GER_AUS_HIT_neutrality:0 "Национал-социалистическая Австрийская империя"
+ GER_AUS_HIT_neutrality_DEF:0 "Национал-социалистическая Австрийская империя"
+ 
+ GER_ITA_neutrality:0 "Германский комиссариат в Италии"
+ GER_ITA_neutrality_DEF:0 "Германский комиссариат в Италии"
+ 
+ GER_BUL_neutrality:0 "Царство Германской Болгарии"
+ GER_BUL_neutrality_DEF:0 "Царство Германской Болгарии"
+ 
+ GER_TRS_communism:0 "Красная Германия"
+ GER_TRS_communism_DEF:0 "Красная Германия"
+ 
+ BGE_fascism:0 "Комиссариат Бургундия"
+ BGE_fascism_DEF:0 "Комиссариат Бургундия"
+ BGE_fascism_ADJ:0 "Бургундия"
+ 
+ GER_anarchism:0 "Анархическая Германия"
+ GER_anarchism_DEF:0 "Анархическая Германия"
+ GER_anarchism_ADJ:0 "Германия"
+ 
+ AUS_anarchism:0 "Anarchist Austria"
+ AUS_anarchism_DEF:0 "The Anarchist Austria"
+ AUS_anarchism_ADJ:0 "Austria"
+ 
+ CZE_anarchism:0 "Anarchist Czechoslovakia"
+ CZE_anarchism_DEF:0 "The Anarchist Czechoslovakia"
+ CZE_anarchism_ADJ:0 "Czechoslovakia"
+ 
+ GEAK_anarchism:0 "Central Business District"
+ GEAK_anarchism_DEF:0 "The Central Business District"
+ GEAK_anarchism_ADJ:0 "Germany" 
+
+ REIO_neutrality:0 "Reichskommissariat Ostland"
+ REIO_neutrality_DEF:0 "The Reichskommissariat Ostland"
+ REIO_neutrality_ADJ:0 "Ostland" 
+
+ GCH_neutrality:0 "Deutsches China"
+ GCH_neutrality_DEF:0 "The Deutsches China"
+ GCH_neutrality_ADJ:0 "China" 
+ 
+ HREUSA_neutrality:0 "Holy Roman German American Empire"
+ HREUSA_neutrality_DEF:0 "Holy Roman German American Empire"
+ HREUSA_neutrality_ADJ:0 "Holy Roman German American Empire" 
+ 
+ SS_land:0 "SS military country"
+ SS_land_DEF:0 "The SS military country"
+ SS_land_ADJ:0 "The SS military country"
+
+ AUS_schutzstaffel:0 "Schutzstaffel Österreich"
+ AUS_schutzstaffel_DEF:0 "the Schutzstaffel Österreich"
+ AUS_schutzstaffel_ADJ:0 "the Schutzstaffel Österreich"
+ SLO_schutzstaffel:0 "Schutzstaffel Slowakei"
+ SLO_schutzstaffel_DEF:0 "the Schutzstaffel Slowakei"
+ SLO_schutzstaffel_ADJ:0 "the Schutzstaffel Slowakei"
+ DEN_schutzstaffel:0 "Schutzstaffel Dänemark"
+ DEN_schutzstaffel_DEF:0 "the Schutzstaffel Dänemark"
+ DEN_schutzstaffell_ADJ:0 "the Schutzstaffel Dänemark"
+ BEL_schutzstaffel:0 "Schutzstaffel Belgien"
+ BEL_schutzstaffel_DEF:0 "the Schutzstaffel Belgien"
+ BEL_schutzstaffel_ADJ:0 "the Schutzstaffel Belgien"
+ HOL_schutzstaffel:0 "Schutzstaffel Niederlande"
+ HOL_schutzstaffel_DEF:0 "the Schutzstaffel Niederlande"
+ HOL_schutzstaffel_ADJ:0 "the Schutzstaffel Niederlande"
+ ITA_schutzstaffel:0 "Schutzstaffel Italien"
+ ITA_schutzstaffel_DEF:0 "the Schutzstaffel Italien"
+ ITA_schutzstaffel_ADJ:0 "the Schutzstaffel Italien"
+ POL_schutzstaffel:0 "Schutzstaffel Polen"
+ POL_schutzstaffel_DEF:0 "the Schutzstaffel Polen"
+ POL_schutzstaffel_ADJ:0 "the Schutzstaffel Polen"
+ LIT_schutzstaffel:0 "Schutzstaffel Litauen"
+ LIT_schutzstaffel_DEF:0 "the Schutzstaffel Litauen"
+ LIT_schutzstaffel_ADJ:0 "the Schutzstaffel Litauen"
+ 
+ GER_strese_front:0 "Syndicate of Free Industrialists in Germany"
+ GER_strese_front_DEF:0 "The Syndicate of Free Industrialists in Germany"

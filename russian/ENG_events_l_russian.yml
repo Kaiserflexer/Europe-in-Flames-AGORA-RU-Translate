@@ -1,0 +1,154 @@
+﻿l_english:
+ mtg_britain_agora.1.t:0 "Find A New King"
+ mtg_britain_agora.1.d:0 "Our king's marriage scandal has seriously damaged our reputation. To remedy this situation, we must forcibly dethrone the king and find other kings to deserve the throne of England."
+ mtg_britain_agora.1.a:0 "German king is the best option"
+ mtg_britain_agora.1.b:0 "Scottish king makes more sense"
+
+ mtg_britain_agora.2.t:0 "Egypt Demands Dominion Status"
+ mtg_britain_agora.2.d:0 "Egypt took advantage of our existing internal turmoil and demanded to be elevated to dominion status. How should we respond to this demand?"
+ mtg_britain_agora.2.a:0 "We will certainly accept the demand"
+ mtg_britain_agora.2.b:0 "These acts will not go unpunished!"
+
+ mtg_britain_agora.3.t:0 "Offer From United Kingdom"
+ mtg_britain_agora.3.d:0 "[ENG.GetLeader] of United Kingdom presented us with an offer. They wanted us to stand by their side in their stance against Germany and to have Wilhelmina become the head of our country again in this monarchical order that will rise again."
+ mtg_britain_agora.3.a:0 "There's nothing we can do but accept"
+ mtg_britain_agora.3.b:0 "This is an unrealistic idea!"
+
+ mtg_britain_agora.4.t:0 "Reply from the Netherlands"
+ mtg_britain_agora.4.d:0 "Wilhelmina announced that she accepted our offer and would support us in every way possible."
+ mtg_britain_agora.4.a:0 "Nice"
+
+ mtg_britain_agora.5.t:0 "Reply from the Netherlands Wilhelmina Refuses"
+ mtg_britain_agora.5.d:0 "Wilhelmina stated that she saw our proposal as an impossible fantasy and nonsense. She said she wouldn't be with us on this one."
+ mtg_britain_agora.5.a:0 "A missed opportunity"
+
+ mtg_britain_agora.6.t:0 "Operation Unthinkable"
+ mtg_britain_agora.6.d:0 ""The United Kingdom has prepared a plan dubbed \"Operation Unthinkable\" with the aim to stop the spread of communism in Europe. They acknowledge the risks involved and for the need to cease war activity due to war exhaustion. Should we accept the proposal, we face yet another World War. There is no doubt that Stalin will be angered, and will ensure a difficult fight for survival. Thorough consideration of our current situation is strongly advised. How shall we respond?""
+ mtg_britain_agora.6.a:0 "The risk is worth taking"
+ mtg_britain_agora.6.b:0 "There's a reason why it is unthinkable"
+
+ mtg_britain_agora.7.t:0 "The United States Agrees"
+ mtg_britain_agora.7.d:0 "The Americans have agreed to begin preparations for the operation. The General Defense staff have been informed and are issuing orders to re-mobilize.  Intelligence reports that Soviet reprisal will be imminent amd advise caution."
+ mtg_britain_agora.7.a:0 "May our children forgive us"
+
+ mtg_britain_agora.8.t:0 "The United States Refuses"
+ mtg_britain_agora.8.d:0 "The Americans have decided not to follow through with this proposal, stating that the world needs to demobilize and rebuild, with risks being too great to justify for an offenive war. Soviet intelligence and military strategic positioning are also deemed too counter-effective for the Allies to mount any successfull invasion, following the example of the invasion of the Axis powers as well."
+ mtg_britain_agora.8.a:0 "The answer we expect"
+
+ mtg_britain_agora.9.t:0 "English-German Trade Agreement"
+ mtg_britain_agora.9.d:0 "The [FROM.GetAdjective] ambassador has contacted our diplomats proposing a trade agreement between our countries. According to the proposal, [FROM.GetNameDef] will send us raw materials, metal ores and aluminium. \nThis agreement will undoubtedly help us in the war effort against the hostile nations in Europe, allowing us to find the means to evade a potential enemy blockade."
+ mtg_britain_agora.9.a:0 "We are in need of raw materials"
+ mtg_britain_agora.9.b:0 "An unacceptable offer"
+
+ mtg_britain_agora.10.t:0 "[GER.GetNameDefCap] signs the English-German Trade Agreement"
+ mtg_britain_agora.10.d:0 "[FROM.GetAdjective] diplomats have informed us that they have agreed to our proposal. Our countries have entered into a trade pact whereby [ROOT.GetNameDef] will send raw materials such as metal ores and aluminium to [FROM.GetNameDef]."
+ mtg_britain_agora.10.a:0 "It will benefit both economies."
+
+ mtg_britain_agora.11.t:0 "[GER.GetNameDefCap] rejects the English-German Trade Agreement"
+ mtg_britain_agora.11.d:0 "After several attempts from our embassador to convince [FROM.GetAdjective] officials of the mutual benefits of a trade pact between our countries, [FROM.GetAdjective] diplomats have just informed us that they have no interest in establishing a trade agreement with [ROOT.GetNameDef]."
+ mtg_britain_agora.11.a:0 "Obstinate fools!"
+
+ mtg_britain_agora.12.t:0 "Syndicalism in [ROOT.GetNameDefCap]"
+ mtg_britain_agora.12.d:0 "We received a delegation today expressing [From.GetLeader]'s interest in extending the relations between our countries and taking steps to unite the [Root.GetAdjective] people together with [From.GetNameDef]. Agreeing to [From.GetLeader]'s proposal would make [Root.GetNameDef] a moderately autonomous puppet of [From.GetNameDef] and our government will be reorganized into something more in line with [From.GetLeader]'s vision.\n\nThe question remains, is [Root.GetAdjective] independence more important than our friendship with [From.GetNameDef]?"
+ mtg_britain_agora.12.a:0 "Submit to their demands."
+ mtg_britain_agora.12.b:0 "Absolutely not!"
+
+ mtg_britain_agora.13.t:0 "[From.GetNameDefCap] Submits"
+ mtg_britain_agora.13.d:0 "The [From.GetAdjective] government has agreed to abandon their independence and become a puppet state of [Root.GetNameDef]. We are sure this will lead to greatness and advance [Root.GetAdjective] interest in the region."
+ mtg_britain_agora.13.a:0 "Excellent."
+
+ mtg_britain_agora.14.t:0 "[From.GetNameDefCap] Defiant!"
+ mtg_britain_agora.14.d:0 "Diplomats from [From.GetNameDef] arrived today to announce that they decline our offer to unite [From.GetNameDef] with [Root.GetNameDef]. Disappointing as it may be, the option to bring [From.GetNameDef] to heel by force remains a valid and tempting option."
+ mtg_britain_agora.14.a:0 "Disappointing."
+
+ mtg_britain_agora.15.t:0 "Economic Reform Implementation"
+ mtg_britain_agora.15.d:0 "King Edward VIII has begun a series of economic reforms to re-establish order and too route out any perceived courruption being praticed by market and financial interests.  He has many different avenues to pusrue to achieve this goal. Oswald Moseley has been appointed as regent to oversee the newly formed bureau charged with managing these initiatives."
+ mtg_britain_agora.15.a:0 "Instate new laws for the banking sector."
+ mtg_britain_agora.15.b:0 "Instate new laws for the industrial sector."
+
+ mtg_britain_agora.19.t:0 "Choose A New Capital For The Empire"
+ mtg_britain_agora.19.d:0 "Our imperial federation has now reached its greatest limits. We are home to so many ethnic people and beautiful cities within these borders. That's why we have to change our capital."
+ mtg_britain_agora.19.a:0 "No need to change"
+ mtg_britain_agora.19.b:0 "Canada"
+ mtg_britain_agora.19.c:0 "Australia"
+ mtg_britain_agora.19.d:0 "New Zealand"
+ mtg_britain_agora.19.e:0 "Second page"
+
+ mtg_britain_agora.20.t:0 "Choose A Capital In Canada"
+ mtg_britain_agora.20.d:0 "Canada hosts 2 cities within this federation that have the potential to be capitals. Which one shall we choose?"
+ mtg_britain_agora.20.a:0 "Ottowa"
+ mtg_britain_agora.20.b:0 "Montreal"
+ mtg_britain_agora.20.c:0 "Previous page"
+
+ mtg_britain_agora.21.t:0 "Choose A Capital In Australia"
+ mtg_britain_agora.21.d:0 "Australia hosts 2 cities within this federation that have the potential to be capitals. Which one shall we choose?"
+ mtg_britain_agora.21.a:0 "Canberra"
+ mtg_britain_agora.21.b:0 "Sydney"
+ 
+ mtg_britain_agora.22.t:0 "Choose A Capital In United States"
+ mtg_britain_agora.22.d:0 "United States, the symbol of democracy, is home to 3 cities within this federation that have the potential to be made capitals. Which one shall we choose?"
+ mtg_britain_agora.22.a:0 "Washington"
+ mtg_britain_agora.22.b:0 "New London (a.k.a New York)"
+ mtg_britain_agora.22.c:0 "Los Angeles"
+
+ mtg_britain_agora.23.t:0 "Choose A New Capital For The Empire - Second Page"
+ mtg_britain_agora.23.d:0 "Our imperial federation has now reached its greatest limits. We are home to so many ethnic people and beautiful cities within these borders. That's why we have to change our capital."
+ mtg_britain_agora.23.a:0 "South Africa"
+ mtg_britain_agora.23.b:0 "United States"
+ mtg_britain_agora.23.c:0 "Back to first page"
+
+ mtg_britain_agora.24.t:0 "Ireland Passes the Executive Authority (External Relations) Act"
+ mtg_britain_agora.24.d:0 "Under the Constitution of the Irish Free State as originally enacted, the executive authority of the Irish Free State was declared to be vested in the King and declared to be exercisable by the Governor-General as representative of the Crown.\nIn response to the disruptive behaviour of the newly crowned King Edward VIII, the Oireachtas of the Irish Free State have enacted the Constitution (Amendment No. 27) Act abolishing the office of the Governor-General so that thereafter the executive government of the Irish Free State, insofar as internal matters were concerned, will cease to be exercised in the name of the King.\n\nIn practical terms this act has effectively severed the major links between the Irish Government and the British Crown, and signifies that Ireland can no longer be legally considered as a Dominion of the British Empire."
+ mtg_britain_agora.24.a:0 "Ireland chooses her own path."
+ mtg_britain_agora.24.b:0 "Let's make a deal"
+
+ mtg_britain_agora.25.t:0 "United Kingdom Wants To Make A Deal"
+ mtg_britain_agora.25.d:0 "Just as we were about to achieve our independence, diplomats from the British government came up with an offer. They say that in return for our remaining Dominion, economic aid will be given to our country and the trade war will end."
+ mtg_britain_agora.25.a:0 "Sign the deal"
+ mtg_britain_agora.25.b:0 "Tear up the deal"
+
+ mtg_britain_agora.26.t:0 "Ireland Accepted Our Offer"
+ mtg_britain_agora.26.d:0 "Ireland accepted our generous offer and chose not to divide this empire. They stated that they hoped that the economic aid they received in return would not be cut off."
+ mtg_britain_agora.26.a:0 "Nice"
+
+ mtg_britain_agora.27.t:0 "Ireland Rejected Our Offer"
+ mtg_britain_agora.27.d:0 "Ireland didn't accept the last chance we offered them and turned down our offer. There is nothing we can do anymore."
+ mtg_britain_agora.27.a:0 "Idiots"
+
+ mtg_britain_agora.28.t:0 "Wilhelmina Takes Over"
+ mtg_britain_agora.28.d:0 "Due to increasing public pressure and the agreement we made with the British, Wilhelmina took over the administration."
+ mtg_britain_agora.28.a:0 "Good"
+
+ mtg_britain_agora.29.t:0 "Britain Demands To Annex Us"
+ mtg_britain_agora.29.d:0 "One of the articles of the agreement we made with Britain was that Britain would annex us when the time came. We can comply with the agreement and accept this request of Britain. If we say that we did not comply with the agreement while things are at this stage, the only way out seems to be war."
+ mtg_britain_agora.29.a:0 "Accept"
+ mtg_britain_agora.29.b:0 "Then the only way is war"
+
+ mtg_britain_agora.30.t:0 "The Netherlands Complied"
+ mtg_britain_agora.30.d:0 "The Netherlands announced that they were sticking to the agreement and approved our request. Thus, there was no need for war and bloodshed."
+ mtg_britain_agora.30.a:0 "Excellent"
+
+ mtg_britain_agora.31.t:0 "The Netherlands Broke the Deal"
+ mtg_britain_agora.31.d:0 "The Netherlands stated that they would not abide by the agreement and that if we were persistent, it could end in war."
+ mtg_britain_agora.31.a:0 "Then to the front!"
+
+ mtg_britain_agora.32.t:0 "Irish Constitution of [GetYear]"
+ mtg_britain_agora.32.d:0 "Ireland has declared a new Constitution, setting aside the old 'Irish Free State' moniker for simply Ireland, or Eire. No mention in this constitution is made to the British Commonwealth, of which Ireland is still technically a Dominion, and some readers find it to be of a distinctly territorial tone, in respect to Northern Ireland. The British Government has sent a clarifying communique reaffirming the position of Northern Ireland as a part of the United Kingdom."
+ mtg_britain_agora.32.a:0 "Worrying"
+
+ mtg_britain_agora.33.t:0 "Eire (Confirmation of Agreements) Act [GetYear]"
+ mtg_britain_agora.33.d: "The Anglo-Irish Trade war has been a sordid affair raging from 1933, arising from Irish refusals to reimburse land annuities from financial loans granted to Irish tenant farmers. This breach of the 1921 Treaty lead to a breakdown in relations, and subsequent trade restrictions from both countries. But the last few months have seen a build-up of reconciliatory legislation, beginning with the Coal-Cattle pact three years ago, and now with this treaty declaring a formal end to the state of affairs."
+ mtg_britain_agora.33.a:0 "Huzzah!"
+
+ mtg_britain_agora.34.t:1 "Tedder Speeches against [GER.GetName]"
+ mtg_britain_agora.34.d:1 "Arthur Tedder made a rousing speech today. In it, he asserted the uniqueness and individuality of British Autocracy, and stressed the distinction between his policies and those of the German dictator. He went on to conclude with powerful words: "no-one but a Briton shall hold sway over Britain!""
+ mtg_britain_agora.34.a:1 "Public reception seems to be rather good."
+
+ mtg_britain_agora.35.t:0 "Bomb Attack on Buckingham Palace"
+ mtg_britain_agora.35.d:0 "After the borders were fully opened, terrorists hiding themselves among the many people entering our country finally achieved their goal. Several bombs were detonated at Buckingham Palace at the same time, causing serious damage and rendering the palace unusable. The terrorists, who also hid themselves among the servants of the palace, killed many servants and members of the royal family with guns in the palace to make sure that the royal family was dead. The army was deployed to restore order and clear the remaining terrorists."
+ mtg_britain_agora.35.a:0 "Worrying"
+
+ mtg_britain_agora.36.t:0 "Offer from Victoria Louise"
+ mtg_britain_agora.36.d:0 "After the explosion at Buckingham Palace, there are no royals fit to lead the country. Victoria Louise took the opportunity to make us an offer. She has promised to lead the country until a member of the royal family is fit to lead the country, and she has promised not to violate our traditions."
+ mtg_britain_agora.36.a:0 "Accept the offer"
+ mtg_britain_agora.36.b:0 "It's impossible!"

@@ -1,0 +1,27 @@
+﻿l_russian:
+GER_ss_wehrmacht_conflict_bop:0 "Баланс конфликта между Шутцштаффелем и Вермахтом"
+ GER_ss_side:0 "Шутцштаффель"
+ GER_ss_medium_control_range:0 "Schutzstaffel - Незначительное воздействие"
+ GER_ss_high_control_range:0 "Schutzstaffel - Преобладает"
+ GER_ss_total_control_range:0 "Schutzstaffel - Доминирует"
+
+ GER_balance_range:0 "Нейтральная точка"
+ 
+ GER_wehrmacht_side:0 "Вермахт"
+ GER_wehrmacht_medium_control_range:0 "Вермахт - Незначительное воздействие"
+ GER_wehrmacht_high_control_range:0 "Вермахт - Преобладает"
+ GER_wehrmacht_total_control_range:0 "Вермахт - Доминирует"
+
+ GER_bop_praise_the_army:0 "Восхищение Армией"
+ GER_bop_praise_the_army_desc:0 "Мужественные мужчины и женщины, служащие в нашей армии, являются основой безопасной и стабильной [GER.GetName]. Они заслуживают почитания германского народа!"
+ GER_bop_praise_the_ss:0 "Восхвалить Шутцштаффель"
+ GER_bop_praise_the_ss_desc:0 "Мужественные мужчины и женщины, служащие в нашей армии, являются основой безопасной и стабильной [GER.GetName]. Они заслуживают почитания германского народа!"
+ GER_give_more_power_to_general_staff:0 "Дать больше полномочий Генеральному штабу"
+ GER_recruit_wehrmacht_division:0 "Вербовка в Вермахт"
+ GER_prioritize_tank_research:0 "Добавить приоритеты в исследовании танков"
+ GER_train_ss_generals:0 "Обучить генералов СС"
+ GER_capture_paris_mission:0 "Захватить Париж"
+ 
+ GER_wehrmacht_anger_tt:0 "\nПри таком уровне §YConflict§!, £wehrmacht_texticon §YWehrmacht's Anger§! будет увеличиваться§! на §Y0,5§! в неделю. \nЕсли вы останетесь на этом уровне в течение §Yдолгого времени§! и не успокоите разгневанную сторону в спровоцированных событиях, §Rгражданская война может вспыхнуть в стране!§!"
+ GER_ss_anger_tt:0 "\nПри таком уровне §YConflict§!, £ss_texticon §YSchutzstaffel's Anger§! будет увеличиваться§! на §Y0.5§! в неделю и §YWaffen-SS§! Фокусы будут заблокированы! \nЕсли вы останетесь на этом уровне в течение §Yдолгого времени§! и не успокоите разгневанную сторону в спровоцированных событиях, §Rгражданская война может вспыхнуть в стране!§!"
+ GER_praise_decision_cooldown_tt:0 "После принятия этого решения вы сможете принять новое решение о поощрении через §Y365 дней§!, до этого момента остальные §Rбудут заблокированы§!\n\n"
