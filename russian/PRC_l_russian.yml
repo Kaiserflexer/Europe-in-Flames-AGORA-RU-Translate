@@ -1,196 +1,196 @@
 ﻿l_russian:
  ####################### TOOLTIPS ################
- prc_sov_supply_tt:0 "Is the neighbour of one of the following:\n       §YSoviet Union§!\n       Faction member of §YSoviet Union§!\n       Communist §YSinkiang§! with positive opinion towards §YSoviet Union§!."
- PRC_attract_intellectuals:0 "Attract Intellectuals"
- prc_sov_supply_eff_tt:0 "§YSoviet reinforcements and supplies will arrive at Yan'an in a few days§!."
+ prc_sov_supply_tt:0 "Является соседом одного из нижеперечисленных государств:\n       §YСоветский Союз§!\n       Член альянса с §YСоветским Союзом§!\n       Коммунистический §YСиньцзян§! с положительным мнением о §YСоветском Союзе§!."
+ PRC_attract_intellectuals:0 "Привлечь интеллектуалов"
+ prc_sov_supply_eff_tt:0 "§YСоветские подкрепления и припасы прибудут в Яньань через несколько дней§!."
  
- prc_long_march_tt:0 "§YWe will recover from the Long March sooner§!\n\n"
+ prc_long_march_tt:0 "§YМы быстрее оправимся от "Долгого марша".§!\n\n"
  
- prc_west_expedition_tt:0 "Three divisions designated for the expedition will assemble at Yan'an.\n\n"
+ prc_west_expedition_tt:0 "Три дивизии, предназначенные для экспедиции, соберутся в Яньане.\n\n"
  
- prc_east_expedition_tt:0 "Two divisions designated for this operation will assemble at Yan'an.\n\n"
+ prc_east_expedition_tt:0 "Две дивизии, предназначенные для этой операции, соберутся в Яньане.\n\n"
  
- prc_front_infras_tt:0 "Add 2 §YInfrastructures§! in all owned states neighbouring §YJapan§! and its puppets."
+ prc_front_infras_tt:0 "Будет добавлено 2 §YИнфраструктуры§! во всех регионах, соседствующих с §YЯпонией§! и её марионетками."
  
- prc_root_out_defeatism_tt:0 "The Japanese have been chased off the mainland."
+ prc_root_out_defeatism_tt:0 "Японцы были изгнаны с материка."
  
- prc_set_government_rank:0 "Change country name to §YPeople's Republic of China§!.\n"
+ prc_set_government_rank:0 "Изменить название страны на §YКитайская Народная Республика§!.\n"
  
- prc_eliminate_iliteracy_tt:0 "We will gradually receive more skilled personnel."
+ prc_eliminate_iliteracy_tt:0 "Постепенно мы будем получать все больше квалифицированных кадров."
  
- PRC_zxl_will_become_leader_if_agree:0 "§YZhang Xueliang will become the leader of the Grand Northwest Union after the corresponding focus is completed.\n§!"
+ PRC_zxl_will_become_leader_if_agree:0 "§YЧжан Сюэлян станет лидером Великого Северо-Западного Союза после завершения соответствующего фокуса.\n§!"
  
- prc_preserve:0 "Enables §HSelf-Preservation§!\nAll Infantry : \n    Trickleback : §G+1%§!\n    Experience Loss : §G-1.5%§!"
+ prc_preserve:0 "Включает §HСамосохранение§!\nВсей пехоты : \n    Вероятность отсупления : §G+1%§!\n    Потеря опыта : §G-1.5%§!"
  
- PRC_mountain_training_tt:0 "Enables §HMountain Warfare§!\nAll Infantry : \n    §HMountain§!\n      Movement: §G+10%§!\n    §HHills§!\n      Movement: §G+10%§!\n\n§HMarines\n    Mountain§!\n      Attack: §G+5%§!\n    §HHills§!\n      Attack: §G+5%§!\n      \n§HMountaineers\n    Mountain§!\n      Attack: §G+5%§!\n    §HHills§!\n      Attack: §G+5%§!\n      \n§HParatroopers\n    Mountain§!\n      Attack: §G+5%§!\n    §HHills§!\n      Attack: §G+5%§!\n\nGain 2 elite mountaineers division.\n"
+ PRC_mountain_training_tt:0 "Включает §HВойна в горах§!\nВся пехота : \n    §HГоры§!\n      Скорость движения: §G+10%§!\n    §HХолмы§!\n      Скорость движения: §G+10%§!\n\n§HMarines\n    Горы!\n      Атака: §G+5%§!\n    §HХолмы§!\n      Атака: §G+5%§!\n      \n§HГорнострелки\n    Горы§!\n      Атака: §G+5%§!\n    §HХолмы§!\n      Атака: §G+5%§!\n      \n§HДесантники\n    Горы§!\n      Атака: §G+5%§!\n    §HХолмы§!\n      Атака: §G+5%§!\n\Будет добавлено 2 дивизии элитных горнострелков.\n"
  
- PRC_yhc_join:0 "§YYang Hucheng§! will join our army\n"
+ PRC_yhc_join:0 "§YЯн Хучэн§! присоединится к нашей армии\n"
  
- PRC_resore_dbj_glory_tt:0 "Own and control the following states :\n    §YJehol§!\n    §YLiaotung§!\n    §YKirin§!\n    §YLiaoning§!\n"
+ PRC_resore_dbj_glory_tt:0 "Требуется контроль над следующими регионами :\n    §YЖэхэ§!\n    §YЛяотун§!\n    §YКирин§!\n    §YЛяонин§!\n"
  
- PRC_create_wargoal_for_db_tt:0 "Gain war goal against owner or overlord of owner of the following states :\n    §YLiaotung§!\n    §YLiaoning§!\n    §YJehol§!\n    §YKirin§!\n    §YSungkiang§!\n    §YHeilungkiang§!\n    §YNorth Xing'an§!\n    §YEast Xing'an§!\n    §YKanto-shu§!\n    §YEast Hebei§!\n    §YCahar§!\n    §YSouth Cahar§!\n"
+ PRC_create_wargoal_for_db_tt:0 "Будет получена цель войны и претензии на следующие регионы :\n    §YЛяотун§!\n    §YЛяонин§!\n    §YЖэхэ§!\n    §YКирин§!\n    §YСунцзян§!\n    §YХэйлунцзян§!\n    §YСеверный Синьань§!\n    §YВосточный Синьань§!\n    §YКватунская область§!\n    §YВосточный Хэбэй§!\n    §YЧахар§!\n    §YЮжный Чахар§!\n"
  
- PRC_xbj_join_tt:0 "Gain 3 divisions\n"
+ PRC_xbj_join_tt:0 "Будет добавлено 3 дивизии\n"
  
- PRC_turn_fascist_when_select_tt:0 "Mao and some of the communists will be executed when the focus is selected.\n§RSelecting this focus also make the fascist party becomes the ruling party§!\n\n"
+ PRC_turn_fascist_when_select_tt:0 "Мао и некоторые коммунисты будут казнены, когда будет выбран фокус.\n§RПри выборе этого фокуса фашистская партия также правящей.§!\n\n"
  
- PRC_same_ideology_with_jap:0 "Has the same ideology with [JAP.GetName]"
+ PRC_same_ideology_with_jap:0 "Имеет одну и ту же идеологию что и [JAP.GetName]"
  
- PRC_get_wargoal_for_fareast_tt:0 "Gain war goal for owner or overlord of owner of the following states :\n    §YVladivostok§!\n    §YKhabarovsk§!\n    §YBirobidzhan§!\n    §YNikolayevsk§!\n    §YAmur§!\n    §YNorth Sakhalin§!\n"
+ PRC_get_wargoal_for_fareast_tt:0 "Будет получена цель войны и претензии на следующие регионы :\n    §YВладивосток§!\n    §YХабаровск§!\n    §YБиробиджан§!\n    §YНиколаевск§!\n    §YАмур§!\n    §YСеверный Сахалин§!\n"
  
- PRC_if_completed_pact_focus_tt:0 "\nIf has completed focus §YA Pact With Japan§!, effect will become as follow:\n\n"
+ PRC_if_completed_pact_focus_tt:0 "\nЕсли завершен фокус §YПакт с Японией§!, эффект станет следующим:\n\n"
  
- PRC_if_completed_pact_focus_add_tt:0 "\nIf has completed focus §YA Pact With Japan§!, this focus will not grant national spirit\n\n"
+ PRC_if_completed_pact_focus_add_tt:0 "\nЕсли завершен фокус §YПакт с Японией§!, этот фокус не добавит национальный дух\n\n"
  
- PRC_feng_clique_generals_join_tt:0 "§YMa Zhanshan§!, §YHe Zhuguo§!, §YYu Xuezhong§! and §YZhang Zuoxiang§! will join our army.\n\n"
+ PRC_feng_clique_generals_join_tt:0 "§YМа Чжаньшань§!, §YХэ Чжугуо§!, §YЮй Сюэчжун§! и §YЧжан Цзуосян§! присоединится к нашей армии.\n\n"
  
- chi_accept_prc71_no_tt:0 "[CHI.GetName] has not accepted our proposal"
+ chi_accept_prc71_no_tt:0 "[CHI.GetName] не принял наше предложение"
  
- PRC_flag_replacement_tt:0 "Control the following states :\n    §YJehol§!\n    §YLiaotung§!\n    §YKirin§!\n    §YLiaoning§!\n"
+ PRC_flag_replacement_tt:0 "Контролирует следующие регионы :\n    §YЖэхэ§!\n    §YЛяотун§!\n    §YКирин§!\n    §YЛяонин§!\n"
  
- has_pact_with_jap_tt:0 "Has pact with [JAP.GetName]"
+ has_pact_with_jap_tt:0 "В альянсе с [JAP.GetName]"
  
- prc_msp_tt:0 "Lower the penalty from §YLack Skilled Personnel§!.\n"
+ prc_msp_tt:0 "Снизить штраф за §YНехватку квалифицированного персонала§!.\n"
  
- prc_more_trade_deals_tt:0 "Trading is now more convenient"
+ prc_more_trade_deals_tt:0 "Торговать стало удобнее"
  
- prc_more_research_tt:0 "Our scientists will be have better time doing researches."
+ prc_more_research_tt:0 "Наши ученые будут лучше проводить исследования."
  
- prc_more_trade_deals_and_construct_tt:0 "Our industry and trade will grow a little bit stronger."
+ prc_more_trade_deals_and_construct_tt:0 "Наша промышленность и торговля станут немного сильнее."
  
- prc_1_tt:0 "3 infantry divisions and 1 armor brigade will arrive at Yan'an.\n\n"
+ prc_1_tt:0 "3 пехотные дивизии и 1 бронетанковая дивизия прибудут в Яньань.\n\n"
  
- sov_power_struggle_ends:0 "The power struggle ends\n"
+ sov_power_struggle_ends:0 "Борьба за власть заканчивается\n"
  
- sov_power_struggle_begins:0 "The power struggle begins\n"
+ sov_power_struggle_begins:0 "Борьба за власть начинается\n"
  
- prc_no_generals_transfer:0 "§RThe current generals will not tolerate the communist, and will leave our military.§!"
+ prc_no_generals_transfer:0 "§RНынешние генералы не будут терпеть коммунистов и покинут наши вооруженные силы.§!"
  
- prc_sov_reinforcements:0 "Receive 8 divisions from [SOV.GetName]"
+ prc_sov_reinforcements:0 "Будет добавлено 8 дивизий из [SOV.GetName]"
  
- PRC_dongbei_partisans_tt:0 "Become controller of all states owned by [CHI.GetName] in Manchuria."
+ PRC_dongbei_partisans_tt:0 "Станет владельцем всех регионов, принадлежащих [CHI.GetName] в Маньчжурии."
  
- west_expedition_failed_msg:0 "PRC's west expedition has failed and the operation has been put to an end."
+ west_expedition_failed_msg:0 "Западная экспедиция КНР потерпела неудачу, и операция была прекращена."
  
- PRC_civil_war_started:0 "The civil war has been triggered by event"
+ PRC_civil_war_started:0 "Гражданская война была спровоцирована событиями"
  
- PRC_restart_CHI_war:0 "Either PRC or Republic of China declared war on each other."
+ PRC_restart_CHI_war:0 "КНР или Китайская Республика объявили друг другу войну."
  
- PRC_no_wargoal_to_chi_when_ok_tt:0 "§RWill not gain war goal against [CHI.GetName] with §YEnforce Our Goal§! focus.§!\n"
+ PRC_no_wargoal_to_chi_when_ok_tt:0 "§RНе сможет получить победные очки в войне с [CHI.GetName] с  фокусом §YОбеспечить выполнение нашей цели§!.§!\n"
  
- PRC_random_amount_of_partisan_tt:0 "§Y2 - 6 Guerilla units will accept our bribe and join our army§!\n"
+ PRC_random_amount_of_partisan_tt:0 "§Y2 - 6 партизанских отрядов примут наше предложение и присоединятся к нашей армии§!\n"
  
- PRC_wait_for_civil_war_tt:0 "This event will fire again when the Japanese civil war event fires.\n"
+ PRC_wait_for_civil_war_tt:0 "Это событие снова сработает, когда сработает событие "Гражданская война в Японии".\n"
  
- PRC_takeover_dongbei_tt:0 "[PRC.GetName] takes over states in Manchuria owned by [JAP.GetName] or her puppets.\n"
+ PRC_takeover_dongbei_tt:0 "[PRC.GetName] получить регионы в Маньчжурии, принадлежавшие [JAP.GetName] или ее марионеток.\n"
  
- KMT_commie_generals_join_tt:0 "§YLin Biao§!, §YZhu De§!, §YChen Yi§! and §YPeng Dehuai§! join our army."
+ KMT_commie_generals_join_tt:0 "§YЛинь Бяо§!, §YЧжу Дэ§!, §YЧэнь И§! and §YПэн Дэхуай§! присоединятся к нашей армии."
  
- KMT_hundred_flowers_tt:0 "This is a plot to expose malefactors, however, their critiques §Rmay sway our people's will§! as they can become more attracted to other parties §Gbefore we arrest those malefactors§!."
+ KMT_hundred_flowers_tt:0 "Это заговор с целью разоблачения злоумышленников, однако их критика §Rможет повлиять на волю нашего народа,§! поскольку они могут стать более привлекательными для других сторон §Gпрежде чем мы арестуем этих злоумышленников§!."
 
- PRC_great_leap_timespan:0 "§YGreat Leap Forward§! is expected to last for §Gseveral§! years, yet it might be aborted after §Rone year§! should it be disastrous for our economy..."
+ PRC_great_leap_timespan:0 "§YБольшое продвижение вперед§! Ожидается, что оно продлится §Gнесколько§! лет, но оно может быть прервано через §Rодин год§! если это окажется губительным для нашей экономики..."
  
- KMT_leap_stop:0 "§YGreat Leap Forward§! policy has come to an end."
+ KMT_leap_stop:0 "§YБольшое продвижение вперед§! завершилось."
 
 
 
 
  ############## DECISIONS ##################
- PRC_solidifying_our_revolution:0 "Solidifying our Revolution"
- PRC_solidifying_our_revolution_desc:0 "[PRC.getNameDefCap] has faced many struggles in the recent years. The treacherous Kuomintang had tried to destroy any sort of socialist opposition in 1935 which forced our once popular movement among the peasants to be dispersed and scattered across the rural areas of Central Plain. Regaining strength will surely take time and effort, yet we will prevail as victorious power in this struggle!"
- PRC_question_of_our_capital_decision:0 "Settle the Question of the Capital"
- PRC_question_of_our_capital_decision_desc:0 "Peoples Revolution will gain even more support among workers and peasants if we officially proclaim the establishment of [PRC.getNameDef] in our newly gained capital."
+ PRC_solidifying_our_revolution:0 "Укрепление нашей революции"
+ PRC_solidifying_our_revolution_desc:0 "[PRC.getNameDefCap] в последние годы пережила немало трудностей. Коварный Гоминьдан попытался уничтожить любую социалистическую оппозицию в 1935 году, в результате чего наше некогда популярное движение среди крестьян было рассеяно и разбросано по сельским районам Центральной равнины. Восстановление сил, несомненно, потребует времени и усилий, но мы победим в этой борьбе как мощная сила.!"
+ PRC_question_of_our_capital_decision:0 "Решить вопрос о столице"
+ PRC_question_of_our_capital_decision_desc:0 "Народная революция получит еще большую поддержку среди рабочих и крестьян, если мы официально провозгласим создание [PRC.getNameDef] в нашей только что обретенной столице."
 
- PRC_the_new_communist_beacon:0 "The New Communist Beacon"
- PRC_the_new_communist_beacon_desc:0 "The Revolutionary Struggle shall never end, for as long as oppressors, colonizers, imperialists and enemies of the people exist! \nWith a few swift strokes we can destroy anti-governmental cells outside and within of [ROOT.getNameDef]. \nThe time has come for Da Zhonghua Diqu to rise and prosper!"
- PRC_hundred_flowers_campaign_progress:0 "Hundred Flowers Campaign Progress"
+ PRC_the_new_communist_beacon:0 "Новый Маяк Коммунизма"
+ PRC_the_new_communist_beacon_desc:0 "Революционная борьба никогда не закончится, пока существуют угнетатели, колонизаторы, империалисты и враги народа! \n Несколькими быстрыми ударами мы можем уничтожить антиправительственные ячейки за пределами и внутри[ROOT.getNameDef]. \nНастало время для Чжунхуа Да Дицюа подняться и процветать!"
+ PRC_hundred_flowers_campaign_progress:0 "Ход кампании Сто цветов"
 
  ########### FLAGS #############
- PRC_defy_sov_order:0 "Defied order from Soviet"
- PRC_sov_approve:0 "Soviets approved our proposal"
- prc_nation_founded:0 "We have founded our nation."
- lin_biao:0 "Lin Biao has seized power"
- deng_xiao_ping:0 "Deng Xiaoping has seized power"
- prc_capital_decided:0 "§YSettle the Question of the Capital§! decision was taken."
- cultural_revolution:0 "Cultural Revolution Underway"
- CR_ended:0 "Cultural Revolution has ended"
- death_of_zel:0 "Zhou Enlai has passed away"
- month_countercurrent:0 "Has been criticized during the Cultural Revolution"
- PRC_zxl_purge:0 "Executed by Zhang Xueliang"
- PRC_enable_cdx:0 "Chen Duxiu has returned"
- PRC_no_wargoal_to_chi_with_gnwu:0 "Abandoned Anti-Chiang Aim"
- PRC_yhc_enable:0 "Incorporated"
- PRC_zxl_purge:0 "Executed by Zhang Xueliang"
- chi_accept_prc71_tt:0 "[CHI.GetName] has accepted our proposal"
- no_rescue_zhang:0 "Do not rescue Zhang Xueliang"
- xian_incident_started:0 "Xi'an Incident has started"
- cdx_returned:0 "Chen Duxiu has returned"
- PRC_zxl_as_leader:0 "Zhang Xueliang had once ascended to power"
- PRC_yes_truce:0 "Agreed to stop all civil wars." 
- has_pact_with_jap:0 "Has a Pact with Japan"
+ PRC_defy_sov_order:0 "Не подчинился советскому приказу"
+ PRC_sov_approve:0 "Советский Союз одобрил наше предложение"
+ prc_nation_founded:0 "Мы основали нашу нацию."
+ lin_biao:0 "Линь Бяо захватил власть"
+ deng_xiao_ping:0 "Дэн Сяопин захватил власть"
+ prc_capital_decided:0 "§YРешить вопрос о столице§! решение было принято."
+ cultural_revolution:0 "Культурная революция продолжается"
+ CR_ended:0 "Культурная революция закончилась"
+ death_of_zel:0 "Чжоу Эньлай скончался"
+ month_countercurrent:0 "Подвергался критике во время Культурной революции"
+ PRC_zxl_purge:0 "Казнен Чжан Сюэлян"
+ PRC_enable_cdx:0 "Чэнь Дусю вернулся"
+ PRC_no_wargoal_to_chi_with_gnwu:0 "Отложенная антикитайская цель"
+ PRC_yhc_enable:0 "Входит в состав"
+ PRC_zxl_purge:0 "Казнен Чжан Сюэлян"
+ chi_accept_prc71_tt:0 "[CHI.GetName] принял наше предложение"
+ no_rescue_zhang:0 "Не спасать Чжан Сюэляна"
+ xian_incident_started:0 "Инцидент в Сиане начался"
+ cdx_returned:0 "Чэнь Дусю вернулся"
+ PRC_zxl_as_leader:0 "Однажды Чжан Сюэлян пришел к власти."
+ PRC_yes_truce:0 "Договорились прекратить все гражданские войны." 
+ has_pact_with_jap:0 "Имеет пакт с Японией"
 
  
  ################  IDEAS  ###############################
- PRC_defeatism_1:0 "Defeatism"
- PRC_defeatism_1_desc:0 "Some of our comrades think that if we fight against the Japanese, we will be come the next Abyssinia. Such thought dampens our people's will greatly."
+ PRC_defeatism_1:0 "Пораженчество"
+ PRC_defeatism_1_desc:0 "Некоторые наши товарищи считают, что если мы будем сражаться против японцев, то станем следующей Абиссинией. Такие мысли сильно ослабляют волю наших людей."
 
- PRC_underestimation:0 "Underestimate Japan"
- PRC_underestimation_desc:0 "Some of our comrades are overly optimistic about the Japanese. They even claim that they will never get to Shanxi. Such arrogance will severely affect our war effort."
+ PRC_underestimation:0 "Недооценивание Японии"
+ PRC_underestimation_desc:0 "Некоторые наши товарищи слишком оптимистично смотрят на японцев. Они даже утверждают, что те никогда не доберутся до Шаньси. Такая самонадеянность серьезно повлияет на наши военные усилия."
 
- PRC_integrated_army:0 "Incorporated Army"
- PRC_integrated_army_desc:0 "The Communist Red Army have agreed to be incorporated into our army, with this little extra support, the war may become less difficult."
+ PRC_integrated_army:0 "Вооруженные силы"
+ PRC_integrated_army_desc:0 "Коммунистическая Красная Армия согласилась войти в состав нашей армии, и с этой небольшой дополнительной поддержкой война может стать менее трудной."
 
- PRC_initiative_idea:0 "Initiative In War Time"
- PRC_initiative_idea_desc:0 "The disarming of a soldier is the result of him losing freedom of action through being forced into a passive position. The same is true of the defeat of an army. For this reason both sides in war do all they can to gain the initiative and avoid passivity"
+ PRC_initiative_idea:0 "Инициатива в военное время"
+ PRC_initiative_idea_desc:0 "Разоружение солдата - это результат того, что он теряет свободу действий, будучи вынужденным занять пассивную позицию. То же самое можно сказать и о поражении армии. По этой причине обе стороны в войне делают все возможное, чтобы завладеть инициативой и избежать пассивности."
 
- PRC_protracted_war_idea:0 "Protracted War"
- PRC_protracted_war_idea_desc:0 "We must delay the Japanese as long as possible. To bide time for international aid."
+ PRC_protracted_war_idea:0 "Затяжная война"
+ PRC_protracted_war_idea_desc:0 "Мы должны задержать японцев как можно дольше. Чтобы выиграть время для получения международной помощи."
 
- PRC_devastating_long_march:0 "The Devastation Of The Long March"
- PRC_devastating_long_march_desc:0 "After the Long March, we finally settle in Shaanxi. However, the gaping wound brought by it still hasn't been healed yet. Will this be our end?"
+ PRC_devastating_long_march:0 "Опустошение от Долгого марша"
+ PRC_devastating_long_march_desc:0 "После Долгого марша мы наконец-то обосновались в Шэньси. Однако зияющая рана, нанесенная им, до сих пор не зажила. Станет ли это нашим концом?"
 
- PRC_devastating_long_march_1:0 "Recovering From The Long March"
- PRC_devastating_long_march_1_desc:0 "We are now going back on track, the effect of the Long March will soon be mitigated."
+ PRC_devastating_long_march_1:0 "Восстановление после Долгого марша"
+ PRC_devastating_long_march_1_desc:0 "Сейчас мы возвращаемся на круги своя, последствия "Долгого марша" скоро будут сглажены."
 
- PRC_guerilla_warfare:0 "Guerilla Warfare"
- PRC_guerilla_warfare_desc:0 "We are not event close to be called a 'nation' or 'country', our movement is merely a kind of guerilla warfare against the Kuomintang. \n"
+ PRC_guerilla_warfare:0 "Партизанская война"
+ PRC_guerilla_warfare_desc:0 "Мы и близко не можем называться "нацией" или "страной", наше движение - всего лишь разновидность партизанской войны против Гоминьдана. \n"
 
- PRC_lack_skilled_personnel:0 "Lack Skilled Personnel"
- PRC_lack_skilled_personnel_desc:0 "Many of our comrades had died during the Long March, causing a lack of skilled personnel among our ranks. This will be difficult for us to gain any kind of technological improvements."
+ PRC_lack_skilled_personnel:0 "Нехватка квалифицированного персонала"
+ PRC_lack_skilled_personnel_desc:0 "Многие наши товарищи погибли во время Долгого марша, что привело к нехватке квалифицированных кадров в наших рядах. Поэтому нам будет сложно добиться каких-либо технологических улучшений."
 
- PRC_swift_victory_idea:0 "Swift Victory Doctrine"
- PRC_swift_victory_idea_desc:0 "If we are to win the war against the Japanese invaders, we must act fast and strike before they know it."
+ PRC_swift_victory_idea:0 "Доктрина быстрой победы"
+ PRC_swift_victory_idea_desc:0 "Если мы хотим выиграть войну против японских захватчиков, мы должны действовать быстро и нанести удар до того, как они узнают об этом."
 
- propaganda_recruits:0 "Propaganda Recruits"
- propaganda_recruits_desc:0 "We are currently relying on our propaganda to attract new bloods into our ranks, this is not very efficient but it will strengthen our people's will nonetheless.\n"
+ propaganda_recruits:0 "Пропаганда рекрутов"
+ propaganda_recruits_desc:0 "Сейчас мы полагаемся на нашу пропаганду, чтобы привлечь в наши ряды новую кровь. Это не очень эффективно, но, тем не менее, укрепляет волю нашего народа.\n"
 
- unyielding_spirit:0 "Unyielding Spirit"
+ unyielding_spirit:0 "Непоколебимый дух"
 
- PRC_mc_corporation:0 "Military Civilian Cooperation"
+ PRC_mc_corporation:0 "Военно-гражданское сотрудничество"
 
- PRC_wrongly_purged_comrades:0 "Overcorrection"
+ PRC_wrongly_purged_comrades:0 "Гиперкоррекция"
 
- PRC_prepare_for_decisive_battle:0 "Prepare For Decisive Battles"
+ PRC_prepare_for_decisive_battle:0 "Подготовиться к решающим сражениям"
 
- PRC_sov_assistance_in_industry:0 "Soviet Industrial Assistance"
+ PRC_sov_assistance_in_industry:0 "Помощь советской промышленности"
 
- PRC_soviet_style_education:0 "Soviet Style Education System"
+ PRC_soviet_style_education:0 "Советская система образования"
 
- PRC_red_beacon:0 "The New Red Beacon"
+ PRC_red_beacon:0 "Новый Красный Маяк"
 
- PRC_good_good_study_idea:0 "Good Good Study Day Day Up"
+ PRC_good_good_study_idea:0 "День доброй учебы"
 
- PRC_save_the_soviet_people:0 "Save The Soviet People"
+ PRC_save_the_soviet_people:0 "Спасти советский народ"
 
  PRC_ndcprc_idea:0 "NDCPRC"
 
- PRC_cultural_revolution:0 "The Cultural Revolution"
+ PRC_cultural_revolution:0 "Культурная революция"
 
- PRC_cultural_revolution_aftermath:0 "Aftermath Of Cultural Revolution"
+ PRC_cultural_revolution_aftermath:0 "Последствия культурной революции"
 
- PRC_socialism_with_chinese_characteristics:0 "Socialism With Chinese Characteristics"
+ PRC_socialism_with_chinese_characteristics:0 "Социализм с китайскими чертами"
 
- lin_biao_generalissimo:0 "Lin Biao"
+ lin_biao_generalissimo:0 "Линь Бяо"
 
  political_mobilisation_idea:0 "Political Mobilization"
 
@@ -253,66 +253,66 @@
 
  PRC_eastern_blitzkrieg:0 "Oriental Blitzkrieg"
 
- PRC_jap_advisors:0 "Japanese Military Advisor"
+ PRC_jap_advisors:0 "Японский военный советник"
 
- PRC_jap_style_command:0 "Loose Command Structure"
+ PRC_jap_style_command:0 "Свободная структура командования"
 
- PRC_sov_advisor:0 "Soviet Military Advisors"
+ PRC_sov_advisor:0 "Советские военные советники"
 
- PRC_secret_police:0 "Secret Police"
+ PRC_secret_police:0 "Тайная полиция"
 
- PRC_enemy_partisan_1:0 "Enemy Partisans Behind Our Frontline"
- PRC_enemy_partisan_1_desc:0 "Our enemy's partisans have establish ground deep behind our frontline, causing damage to supply routes and slowing down our troops.\n\n§RThis National Spirit will expire when the war with PRC is over.§!\n\n§RPeriodic Building Damage On Chinese Core States Controlled By Us§!"
+ PRC_enemy_partisan_1:0 "Вражеские партизаны за линией фронта"
+ PRC_enemy_partisan_1_desc:0 "Партизаны противника закрепились глубоко за нашей линией фронта, нанося урон путям снабжения и замедляя продвижение наших войск.\n\n§RTСрок действия его Национального духа истечет, когда закончится война с КНР.§!\n\n§RПериодическое повреждение зданий в контролируемых нами регионов Китая§!"
 
- KMT_no_aid_famine_comm:0 "Refuse To Send Aid"
+ KMT_no_aid_famine_comm:0 "Отказ от помощи"
 
- KMT_aid_famine:0 "Battling Famine"
+ KMT_aid_famine:0 "Борьба с голодом"
 
- KMT_privilege_to_proletarians_idea:0 "Privilege To Proletarians"
+ KMT_privilege_to_proletarians_idea:0 "Привилегии для пролетариев"
 
- KMT_baihua_stage_1_idea:0 "Soft Comments"
- KMT_baihua_stage_1_finished:0 "Rightist Citizens Arrested"
+ KMT_baihua_stage_1_idea:0 "Мягкие комментарии"
+ KMT_baihua_stage_1_finished:0 "Правые граждане арестованы"
 
- KMT_baihua_stage_2_idea:0 "Numerous Critiques"
- KMT_baihua_stage_2_finished:0 "Rightist Commentators Arrested"
- KMT_baihua_stage_2_finished_effect:0 "Weakened Subversive Activities"
+ KMT_baihua_stage_2_idea:0 "Многочисленная критика"
+ KMT_baihua_stage_2_finished:0 "Правые комментаторы арестованы"
+ KMT_baihua_stage_2_finished_effect:0 "Ослабление подрывной деятельности"
 
- KMT_baihua_stage_3_idea:0 "Radical Comments"
- KMT_baihua_stage_3_finished:0 "Rightist Politicians Arrested"
- KMT_baihua_stage_3_finished_effect:0 "Underground Activities Busted"
+ KMT_baihua_stage_3_idea:0 "Радикальные комментарии"
+ KMT_baihua_stage_3_finished:0 "Арестованы правые политики"
+ KMT_baihua_stage_3_finished_effect:0 "Подпольная деятельность раскрыта"
 
- KMT_baihua_stage_4_idea:0 "Intolerable Comments"
- KMT_baihua_stage_4_finished:0 "Rightist Party Members Arrested"
- KMT_baihua_stage_4_finished_effect:0 "Secret Clique Busted"
+ KMT_baihua_stage_4_idea:0 "Нетерпимые комментарии"
+ KMT_baihua_stage_4_finished:0 "Арестованы члены Правой партии"
+ KMT_baihua_stage_4_finished_effect:0 "Тайная клика раскрыта"
 
- KMT_baihua_stage_5_idea:0 "Separatism Rising"
- KMT_baihua_stage_5_finished:0 "Rightists Arrested"
- KMT_baihua_stage_5_finished_effect:0 "Rightist Activities Banned"
+ KMT_baihua_stage_5_idea:0 "Подъем сепаратизма"
+ KMT_baihua_stage_5_finished:0 "Правые арестованы"
+ KMT_baihua_stage_5_finished_effect:0 "Правая деятельность запрещена"
 
- KMT_great_leap_famine_idea:0 "Famine"
+ KMT_great_leap_famine_idea:0 "Голод"
 
- KMT_recovering_from_famine:0 "Recovering From Famine"
+ KMT_recovering_from_famine:0 "Восстановление после голода"
 
- KMT_peoples_commune:0 "People's Commune"
+ KMT_peoples_commune:0 "Народная коммуна"
  
- KMT_three_red_banner:0 "Three Red Banners"
+ KMT_three_red_banner:0 "Три Красных Знамени"
 
 
 
  ################## THEORISTS ########################
- PRC_chen_duxiu:0 "Chen Duxiu"
- PRC_he_zhuguo:0 "He Zhuguo" #何柱國
- PRC_mazhanshan:0 "Ma Zhanshan" #馬占山
- PRC_yang_hu_cheng:0 "Yang Hucheng" #楊虎城
- PRC_xu_lanzhou:0 "Xu Lanzhou" #許蘭州
- PRC_wang_tehan:0 "Wang Tiehan" #王鐵漢
- PRC_zxl_navy:0 "Zhang Xueliang"
- PRC_zxl_air:0 "Zhang Xueliang"
- PRC_liu_duo_quan:0 "Liu Duoquan" #劉多荃
- PRC_yu_xue_zhong:0 "Yu Xuezhong" #于學忠
- PRC_li_bo_hai:0 "Li Bohai" #李渤海
- PRC_deng_bao_shan:0 "Deng Baoshan" #鄧寶珊
- PRC_lin_biao_theorist:0 "Lin Biao"
+ PRC_chen_duxiu:0 "Чэнь Дусю"
+ PRC_he_zhuguo:0 "Хэ Чжугуо" #何柱國
+ PRC_mazhanshan:0 "Ма Чжаньшань" #馬占山
+ PRC_yang_hu_cheng:0 "Ян Хучэн" #楊虎城
+ PRC_xu_lanzhou:0 "Сюй Ланьчжоу" #許蘭州
+ PRC_wang_tehan:0 "Ван Тиехань" #王鐵漢
+ PRC_zxl_navy:0 "Чжан Сюэлян"
+ PRC_zxl_air:0 "Чжан Сюэлян"
+ PRC_liu_duo_quan:0 "Лю Дуоцюань" #劉多荃
+ PRC_yu_xue_zhong:0 "Юй Сюэчжун" #于學忠
+ PRC_li_bo_hai:0 "Ли Бохай" #李渤海
+ PRC_deng_bao_shan:0 "Дэн Баошань" #鄧寶珊
+ PRC_lin_biao_theorist:0 "Линь Бяо"
 
 
  ###################### DESIGNERS ##########################
@@ -381,19 +381,19 @@
 
 
  ################# MISC ################
- preserve:0 "Self-Preservation"
- mountain_warfare:0 "Mountain Warfare"
- tech_support:0 "Support Tech"
+ preserve:0 "Самосохранение"
+ mountain_warfare:0 "Война в горах"
+ tech_support:0 "Поддержка техники"
  
 
 
 
 
  ####################### BOOKMARKS ################
- CHI_GATHERING_STORM_DESC:0 "Once the most powerful nation on the face of the Earth, China has been brought low by nearly a century of western imperialism and internal strife.\n\nChiang Kai-shek and the Kuomintang, the central government of China, now face threats from both the Japanese Empire, which has already annexed a vast swath of China, and Mao's Communists, who are currently holed up in the hills of Shaanxi. Surrounded on all sides, Chiang now prepares China for a war the likes of which the country has never seen."
- PRC_GATHERING_STORM_DESC:0 "The Chinese Communist Party is on the brink of destruction. After a failed revolution, Communist armies have been broken on all fronts by the KMT, the Communists fled from their bases in southern China to their new base in Shaanxi. From this catastrophe, a new leader emerged for the party: Mao Zedong.\n\nMao brings with him a radical new vision of communism, and a new strategy for survival and expansion. Perhaps the Communists could ally with their former enemies against a greater foe…"
- PRC_BLITZKRIEG_DESC:0 "In chaos there is opportunity. The Japanese invasion has forced the KMT, who in 1936 had come incredibly close to extinguishing the CCP, now have been forced to ally with the Communists.\n\nNow, the Communists have waited in Shaanxi, content to let the KMT do the majority of the fighting. Perhaps, through this war, the Communists could advance and take the Northern provinces of China, long since lost to the Japanese. Perhaps, after the war's end, the Communists could use the industry of the North to drive South and deal a crushing blow to the KMT. Perhaps..."
- CHI_BLITZKRIEG_DESC:0 "The Japanese invasion has been brutal. Ploughing through defenses around Beijing and Shanghai, the Japanese swept into the capital at Nanjing and committed acts of unspeakable horror within its walls. And yet, to the world's amazement, China fights on.\n\nChiang, from his new capital in Chongqing, leads the resistance against Japan. In the mountainous terrain of the interior, Chinese armies, their hearts filled with vengeance, charge Japanese forces, determined to drive the devils back into the sea. If China has to pay the blood price for her freedom, then so be it."
+ CHI_GATHERING_STORM_DESC:0 "Некогда самая могущественная страна на Земле, Китай был низложен почти столетием западного империализма и внутренних раздоров.\n\nЧан Кайши и Гоминьдан, центральное правительство Китая, теперь сталкиваются с угрозами как со стороны Японской империи, которая уже аннексировала огромную часть Китая, так и со стороны коммунистов Мао, которые сейчас затаились в холмах Шэньси. Окруженный со всех сторон, Чан готовит Китай к войне, подобной которой страна еще не видела."
+ PRC_GATHERING_STORM_DESC:0 "Китайская коммунистическая партия находится на грани уничтожения. После неудачной революции коммунистические армии были разбиты КМТ на всех фронтах, коммунисты бежали со своих баз на юге Китая на новую базу в Шэньси. В результате этой катастрофы у партии появился новый лидер: Мао Цзэдун.\n\nМао принес с собой радикально новое видение коммунизма и новую стратегию выживания и экспансии. Возможно, коммунисты смогут объединиться со своими бывшими врагами против более серьезного противника..."
+ PRC_BLITZKRIEG_DESC:0 "В хаосе есть возможность. Японское вторжение заставило КМТ, которая в 1936 году была невероятно близка к уничтожению КПК, теперь пойти на союз с коммунистами.\n\n Теперь коммунисты ждали в Шэньси, довольствуясь тем, что КМТ ведет большую часть боевых действий. Возможно, благодаря этой войне коммунисты смогут продвинуться вперед и захватить северные провинции Китая, давно потерянные японцами. Возможно, после окончания войны коммунисты смогут использовать промышленность Севера, чтобы продвинуться на юг и нанести сокрушительный удар по КМТ. Возможно..."
+ CHI_BLITZKRIEG_DESC:0 "Японское вторжение было жестоким. Прорвав оборону вокруг Пекина и Шанхая, японцы ворвались в столицу Нанкин и совершили в ее стенах акты неописуемого ужаса. И все же, к изумлению всего мира, Китай продолжает сражаться.\n\nИз своей новой столицы в Чунцине Чанг возглавляет сопротивление Японии. В гористой местности китайские армии, сердца которых наполнены жаждой мести, бросаются на японские войска, полные решимости загнать дьяволов обратно в море. Если Китаю придется заплатить кровью за свою свободу, значит, так тому и быть."
 
 
 
@@ -403,247 +403,247 @@
 
 
  ####################### FOCUSES ########################
- PRC_recover_from_the_long_march:0 "Recover From The Long March"
- PRC_recover_from_the_long_march_desc:0 "The Long March has cost us greatly, we must start recovering before the Kuomintang use this as an opportunity!"
+ PRC_recover_from_the_long_march:0 "Восстановление после Долгого марша"
+ PRC_recover_from_the_long_march_desc:0 "Долгий марш обошелся нам очень дорого, мы должны начать восстанавливаться, пока Гоминьдан не использовал это как возможность!"
 
- PRC_anti_japanese_aim:0 "Anti-Japanese Aim"
- PRC_anti_japanese_aim_desc:0 "The Japanese invaders are at our doorstep, we must focus on preparing a defense strategy against them."
+ PRC_anti_japanese_aim:0 "Антияпонская риторика"
+ PRC_anti_japanese_aim_desc:0 "Японские захватчики у нашего порога, мы должны сосредоточиться на подготовке стратегии защиты от них."
 
- PRC_west_expedition:0 "Organize West Expedition"
- PRC_west_expedition_desc:0 "If we can open a route for Soviet to send us supply, our revolution will go much smoother. However, the Ma clique is in our way, we must get rid of them."
+ PRC_west_expedition:0 "Организовать Западную экспедицию"
+ PRC_west_expedition_desc:0 "Если мы сможем открыть советским войскам путь для поставок, наша революция пройдет гораздо спокойнее. Однако на нашем пути стоит клика Ма, мы должны избавиться от нее."
 
- PRC_approach_the_front:0 "Approach The Front"
- PRC_approach_the_front_desc:0 "We must take our own initiative to repel the Japanese invaders! We cannot rely solely on the warlords and the Kuomintang."
+ PRC_approach_the_front:0 "Приблизить фронт"
+ PRC_approach_the_front_desc:0 "Мы должны проявить собственную инициативу, чтобы отразить японских захватчиков! Мы не можем полагаться только на военачальников и Гоминьдан."
  
- PRC_supply_line_from_sov:0 "Soviet Supplies"
- PRC_supply_line_from_sov_desc:0 "With the route now open, Soviet supplies and reinforcements can come much much easier."
+ PRC_supply_line_from_sov:0 "Советские поставки"
+ PRC_supply_line_from_sov_desc:0 "Теперь, когда маршрут открыт, советские поставки и подкрепления могут поступать гораздо легче."
  
- PRC_front_line_preparation:0 "Frontline Preparation"
- PRC_front_line_preparation_desc:0 "We must prepare our frontline positions, make our soldiers more organized against the Japanese imperialists."
+ PRC_front_line_preparation:0 "Подготовка фронта"
+ PRC_front_line_preparation_desc:0 "Мы должны подготовить наши передовые позиции, сделать наших солдат более организованными против японских империалистов."
  
- PRC_boost_the_morale:0 "Boost The Morale"
- PRC_boost_the_morale_desc:0 "The defeatists in our ranks are harmful without a doubt, we must attempt to talk them out of this mindset."
+ PRC_boost_the_morale:0 "Поднять боевой дух"
+ PRC_boost_the_morale_desc:0 "Пораженцы в наших рядах, несомненно, вредны, мы должны попытаться отучить их от такого образа мыслей."
  
- PRC_prepare_for_war:0 "Prepare For War"
- PRC_prepare_for_war_desc:0 "The war with the Japanese is seemingly inevitable, we must prepare ourselves!"
+ PRC_prepare_for_war:0 "Готовиться к войне"
+ PRC_prepare_for_war_desc:0 "Война с японцами, похоже, неизбежна, мы должны подготовиться!"
 
- PRC_the_united_front:0 "The United Front"
- PRC_the_united_front_desc:0 "The Kuomintang is now leading the United Front, we can send our troops to be incorporated into their ranks and teach them the tactic of guerilla warfare."
+ PRC_the_united_front:0 "Объединенный фронт"
+ PRC_the_united_front_desc:0 "Гоминьдан сейчас возглавляет Объединенный фронт, мы можем отправить наши войска, чтобы влиться в их ряды и обучить их тактике партизанской войны."
 
- PRC_initiative_in_war_time:0 "Our Own Initiative"
- PRC_initiative_in_war_time_desc:0 "We must take the initiative to our own hands, the Kuomintang will surely destroy us if they have it after the war against the Japanese. We must not give them the tool to destroy us!"
+ PRC_initiative_in_war_time:0 "Наша собственная инициатива"
+ PRC_initiative_in_war_time_desc:0 "Мы должны взять инициативу в свои руки, Гоминьдан обязательно уничтожит нас, если она будет у них после войны с японцами. Мы не должны давать им инструмент для нашего уничтожения!"
  
- PRC_protracted_war:0 "Protracted War"
- PRC_protracted_war_desc:0 "We must delay our enemy as much as we can, and wait for the people and nations to join us in the war against the Japanese."
+ PRC_protracted_war:0 "Затянувшаяся война"
+ PRC_protracted_war_desc:0 "Мы должны задержать нашего врага настолько, насколько это возможно, и ждать, пока люди и страны присоединятся к нам в войне против японцев."
  
- PRC_root_out_defeatism:0 "Root Out Defeatism"
- PRC_root_out_defeatism_desc:0 "The Japanese has failed in conquering China, this is the best evidence that can slap the defeatists in their faces."
+ PRC_root_out_defeatism:0 "Выкорчевать пораженчество"
+ PRC_root_out_defeatism_desc:0 "Японцы потерпели неудачу в завоевании Китая, это лучшее доказательство, которое может ударить по лицу пораженцев."
  
- PRC_neccessary_flexibility:0 "Necessary Mobility"
- PRC_neccessary_flexibility_desc:0 "Solely relying on guerilla warfare is not viable, our troops must prepare to assault and withdraw when it is necessary."
+ PRC_neccessary_flexibility:0 "Необходимая мобильность"
+ PRC_neccessary_flexibility_desc:0 "Полагаться только на партизанскую войну нецелесообразно, наши войска должны быть готовы к штурму и отходу, когда это необходимо."
  
- PRC_war_of_attrition:0 "War Of Attrition"
- PRC_war_of_attrition_desc:0 "We have the space and man to fight a prolonged war with the Japanese, we can held off the attrition, but the Japanese can't. We will use this against them."
+ PRC_war_of_attrition:0 "Война на истощение"
+ PRC_war_of_attrition_desc:0 "У нас есть пространство и люди, чтобы вести длительную войну с японцами, мы можем сдерживать истощение, но японцы не могут. Мы используем это против них."
  
- PRC_swift_victory:0 "Swift Victory Doctrine"
- PRC_swift_victory_desc:0 "Although Mao insist on fighting a protracted war, some comrades suggest that we should be more initiative and take the war to the Japanese, strike them when they least expected."
+ PRC_swift_victory:0 "Доктрина быстрой победы"
+ PRC_swift_victory_desc:0 "Хотя Мао настаивает на ведении затяжной войны, некоторые товарищи предлагают нам проявить больше инициативы и начать войну с японцами, нанеся им удар тогда, когда они меньше всего этого ожидают."
  
- PRC_partial_guerilla_operation:0 "Partial Guerilla operation"
- PRC_partial_guerilla_operation_desc:0 "Mao insisted that guerilla warfare is a must, we will just give him a perfunctory response."
+ PRC_partial_guerilla_operation:0 "Частичная партизанская операция"
+ PRC_partial_guerilla_operation_desc:0 "Мао настаивал на том, что партизанская война необходима, мы же просто дадим ему формальный ответ."
  
- PRC_war_of_annihilation:0 "War Of Annihilation"
- PRC_war_of_annihilation_desc:0 "With the initiative in our hand, we will annihilate the Japanese before they can react!"
+ PRC_war_of_annihilation:0 "Война на уничтожение"
+ PRC_war_of_annihilation_desc:0 "С инициативой в наших руках мы уничтожим японцев прежде, чем они успеют отреагировать!"
  
- PRC_political_mobilisation:0 "Political Mobilisation"
- PRC_political_mobilisation_desc:0 "We must encourage all our people. both civilians and our soldiers, to fight against the invader."
+ PRC_political_mobilisation:0 "Политическая мобилизация"
+ PRC_political_mobilisation_desc:0 "Мы должны призвать весь наш народ, как гражданских лиц, так и солдат, к борьбе с захватчиком."
  
- PRC_self_perservation:0 "Self Preservation"
- PRC_self_perservation_desc:0 "If we were to have a chance at winning this war, our soldiers must know how to preserve their strength and not make unnecessary sacrifices."
+ PRC_self_perservation:0 "Самосохранение"
+ PRC_self_perservation_desc:0 "Если мы хотим иметь шанс победить в этой войне, наши солдаты должны знать, как сохранить свои силы и не идти на ненужные жертвы."
  
- PRC_prepare_for_decisive_battle:0 "Prepare For Decisive Battle"
- PRC_prepare_for_decisive_battle_desc:0 "With our strength preserved, we can prepare for decisive battles that will cripple the Japanese with a single blow."
+ PRC_prepare_for_decisive_battle:0 "Подготовиться к решающей битве"
+ PRC_prepare_for_decisive_battle_desc:0 "Сохранив силы, мы можем подготовиться к решающим сражениям, которые одним ударом сломят японцев."
  
- PRC_the_goal_of_our_war:0 "The Goal Of Our War"
- PRC_the_goal_of_our_war_desc:0 "Reminding our people what the goal of our current war is will greatly improve our national spirit."
+ PRC_the_goal_of_our_war:0 "Цель нашей войны"
+ PRC_the_goal_of_our_war_desc:0 "Напоминание нашему народу о том, какова цель нашей нынешней войны, значительно поднимет наш национальный дух."
  
- PRC_military_civilian_corporation:0 "Military Civilian Cooperation"
- PRC_military_civilian_corporation_desc:0 "Establishing militia and encourage civilians to help in army logistics will be an important factor in the war."
+ PRC_military_civilian_corporation:0 "Военно-гражданское сотрудничество"
+ PRC_military_civilian_corporation_desc:0 "Создание ополчения и привлечение гражданских лиц к помощи в материально-техническом обеспечении армии станет важным фактором в войне."
  
- PRC_debunk_the_underestimation:0 "Debunk The Underestimation"
- PRC_debunk_the_underestimation_desc:0 "We must show our comrades that underestimating Japan is totally wrong and is detrimental to our nation's army."
+ PRC_debunk_the_underestimation:0 "Развенчать недооценку"
+ PRC_debunk_the_underestimation_desc:0 "Мы должны показать нашим товарищам, что недооценка Японии совершенно неправильна и вредна для армии нашей страны."
  
- PRC_army_reform:0 "Army Reform"
- PRC_army_reform_desc:0 "Our current army structure is too loose. we must establish a more well-structured one."
+ PRC_army_reform:0 "Реформа армии"
+ PRC_army_reform_desc:0 "Наша нынешняя структура армии слишком рыхлая. Мы должны создать более четко структурированную."
 
- PRC_purge_dissident_element:0 "Purge The Rightists"
- PRC_purge_dissident_element_desc:0 "Some believe that rightists thought has infected some of our comrades' mind, we must make them turn 'left' again, or they will be excommunicated..."
+ PRC_purge_dissident_element:0 "Чистка правых"
+ PRC_purge_dissident_element_desc:0 "Некоторые считают, что правая мысль заразила разум некоторых наших товарищей, мы должны заставить их снова обратиться к "левым", иначе они будут отлучены от церкви..."
 
- PRC_found_our_nation:0 "Found Our Nation"
- PRC_found_our_nation_desc:0 "Having vast territories under our direct control, we can hold an assembly to announce that we finally found our nation and being a guerilla movement no more."
+ PRC_found_our_nation:0 "Нашли нашу нацию"
+ PRC_found_our_nation_desc:0 "Имея огромные территории под своим прямым контролем, мы можем провести собрание, чтобы объявить, что мы наконец-то нашли свою нацию и больше не являемся партизанским движением."
 
- PRC_pla:0 "PLA"
- PRC_pla_desc:0 "The People's Liberation Army will be the only army that will save the Chinese people from vile capitalism and eliminate the reactionaries, thus liberating and bringing them towards communism."
+ PRC_pla:0 "НОАК"
+ PRC_pla_desc:0 "Народно-освободительная армия будет единственной армией, которая спасет китайский народ от гнусного капитализма и уничтожит реакционеров, тем самым освободив и приведя его к коммунизму."
 
- PRC_the_first_five_year_plan:0 "The First Five Years Plan"
- PRC_the_first_five_year_plan_desc:0 "Our newly established nation lacks industrial capacities, we must plan focus on this in our first Five Years Plan."
+ PRC_the_first_five_year_plan:0 "Первый пятилетний план"
+ PRC_the_first_five_year_plan_desc:0 "Нашей недавно созданной нации не хватает промышленного потенциала, мы должны сосредоточиться на этом в нашей первой пятилетке."
 
- PRC_resources_prospection:0 "Resources Prospection"
- PRC_resources_prospection_desc:0 "The vast territories of our nation prove to be quite resourceful, we can prospect resources that will greatly increase the amount of useful materials produced."
+ PRC_resources_prospection:0 "Прогнозирование ресурсов"
+ PRC_resources_prospection_desc:0 "Обширные территории нашей нации оказываются весьма ресурсоемкими, мы можем вести разведку ресурсов, что значительно увеличит количество производимых полезных материалов."
 
- PRC_land_reform:0 "Land Reform"
- PRC_land_reform_desc:0 "Currently our lands are mostly owned by landlords and farmers are being exploited. A policy should be introduced to free the farmers and let them have their own lands and give them the courage for them to stand up against the landlords."
+ PRC_land_reform:0 "Земельная реформа"
+ PRC_land_reform_desc:0 "В настоящее время наши земли в основном принадлежат помещикам, а фермеры подвергаются эксплуатации. Необходимо разработать политику, которая освободит фермеров, позволит им иметь свои собственные земли и даст им смелость выступить против помещиков."
 
- PRC_suppress_counterrevolutionaries:0 "Suppress Counterrevolutionaries"
- PRC_suppress_counterrevolutionaries_desc:0 "In order to maintain stability in our nation, all elements that is against the Revolution shall be eliminated or rehabilitated, families are encouraged to report their family members' anti-revolution activities to authorities."
+ PRC_suppress_counterrevolutionaries:0 "Подавить контрреволюционеров"
+ PRC_suppress_counterrevolutionaries_desc:0 "Для поддержания стабильности в нашей стране все элементы, выступающие против революции, должны быть уничтожены или реабилитированы, семьям рекомендуется сообщать властям об антиреволюционной деятельности членов их семей."
 
- PRC_156_project:0 "The 156 Project"
- PRC_156_project_desc:0 "With Soviet assistance, our nation's industry will bloom."
+ PRC_156_project:0 "Проект 156"
+ PRC_156_project_desc:0 "С советской помощью промышленность нашей страны расцветет".
 
- PRC_equipment_update:0 "Equipment Update"
- PRC_equipment_update_desc:0 "Our current equipments for our army is the exhibits in the museum, we must provide them with more up-to-date equipments."
+ PRC_equipment_update:0 "Обновление оборудования"
+ PRC_equipment_update_desc:0 "Нынешнее оборудование для нашей армии - это экспонаты в музее, мы должны предоставить им более современное оборудование."
 
- PRC_ndcprc:0 "Found NDCPRC"
- PRC_ndcprc_desc:0 "National Defence Committee of People's Republic of China will be established to decide on national defence related policies."
+ PRC_ndcprc:0 "Найден NDCPRC"
+ PRC_ndcprc_desc:0 "Комитет национальной обороны Китайской Народной Республики будет создан для принятия решений по вопросам политики в области национальной обороны."
 
  PRC_tbos:0 "TBOS"
- PRC_tbos_desc:0 "TBOS, acronym for Two Bombs One Star(Satellite), is our nation's first plan to expand our reach to the sky and event the space."
+ PRC_tbos_desc:0 "TBOS, аббревиатура от Two Bombs One Star(Satellite), - это первый план нашей страны по расширению охвата неба и событий в космосе."
 
- PRC_establish_navy:0 "Establish People's Liberation Navy"
- PRC_establish_navy_desc:0 "Although we have ships, but we lack a official organized navy."
+ PRC_establish_navy:0 "Создать Народно-Освободительный флот"
+ PRC_establish_navy_desc:0 "Хотя у нас есть корабли, но нам не хватает официально организованного военно-морского флота."
 
- PRC_the_red_pacific:0 "Red Pacific"
- PRC_the_red_pacific_desc:0 "We will spread communism across the Pacific!"
+ PRC_the_red_pacific:0 "Красный Тихий океан"
+ PRC_the_red_pacific_desc:0 "Мы распространим коммунизм по всему Тихому океану!"
 
- PRC_sea_ambition:0 "SEA Ambition"
- PRC_sea_ambition_desc:0 "The Strait of Malacca is an arterial trade route for the East and the West, if we control it, we will be deciding the fate of some nations."
+ PRC_sea_ambition:0 "Амбиции ЮВА"
+ PRC_sea_ambition_desc:0 "Малаккский пролив - артериальный торговый путь для Востока и Запада, если мы будем контролировать его, мы будем решать судьбу некоторых наций."
 
- PRC_institution_reorganization:0 "Institution Reorganization"
- PRC_institution_reorganization_desc:0 "Our current education system is not well-improved, a reorganization is needed if we are to have talented people."
+ PRC_institution_reorganization:0 "Реорганизация учреждений"
+ PRC_institution_reorganization_desc:0 "Наша нынешняя система образования не слишком совершенна, необходима реорганизация, если мы хотим иметь талантливых людей."
 
- PRC_cult_of_personality:0 "Cult Of Personality"
- PRC_cult_of_personality_desc:0 "Every Chinese must worship our great and glorious leader Mao Zedong, and nothing else."
+ PRC_cult_of_personality:0 "Культ личности"
+ PRC_cult_of_personality_desc:0 "Каждый китаец должен поклоняться нашему великому и славному лидеру Мао Цзэдуну, и ничему другому."
 
- PRC_eliminate_iliteracy:0 "Eliminate Iliteracy"
- PRC_eliminate_iliteracy_desc:0 "The iliteracy rate of our nation is high, we must lower the rate in order to have progress."
+ PRC_eliminate_iliteracy:0 "Ликвидировать безграмотность"
+ PRC_eliminate_iliteracy_desc:0 "Уровень неграмотности в нашей стране высок, мы должны снизить его, чтобы добиться прогресса."
 
- PRC_adopt_soviet_education_system:0 "Adopt Soviet Style Education"
- PRC_adopt_soviet_education_system_desc:0 "We can adopt the education of Soviet Union to replace our current on, as theirs is more well-structured than ours."
+ PRC_adopt_soviet_education_system:0 "Принять советский стиль образования"
+ PRC_adopt_soviet_education_system_desc:0 "Мы можем перенять образование Советского Союза, чтобы заменить наше нынешнее, так как их образование более хорошо структурировано, чем наше."
 
- PRC_sov_cooperation:0 "Soviet Cooperation"
- PRC_sov_cooperation_desc:0 "Soviet Union is undoubtedly the most powerful communism nation in the world, we have so much that can learn from them."
+ PRC_sov_cooperation:0 "Советское сотрудничество"
+ PRC_sov_cooperation_desc:0 "Советский Союз, несомненно, является самой мощной коммунистической страной в мире, и мы можем многому у них научиться."
 
- PRC_the_new_communism_beacon:0 "The New Communism Beacon"
- PRC_the_new_communism_beacon_desc:0 "Soviet Union is now infested with revisionists that strayed away from the path of Karl Marx, we will not follow such rotten structure."
+ PRC_the_new_communism_beacon:0 "Новый маяк коммунизма"
+ PRC_the_new_communism_beacon_desc:0 "Советский Союз сейчас заражен ревизионистами, которые отклонились от пути Карла Маркса, мы не будем следовать за такой гнилой структурой."
 
- PRC_anti_soviet_revisionist_aim:0 "Anti-Soviet-Revisionism Aim"
- PRC_anti_soviet_revisionist_aim_desc:0 "The Soviet Revisionism is poisoning the millions of comrades in Soviet, we must plan to their salvation."
+ PRC_anti_soviet_revisionist_aim:0 "Антисоветская ревизионистская цель"
+ PRC_anti_soviet_revisionist_aim_desc:0 "Советский ревизионизм отравляет миллионы товарищей в СССР, мы должны планировать их спасение."
 
- PRC_liberate_the_soviet_people:0 "Liberate The Soviet People"
- PRC_liberate_the_soviet_people_desc:0 "It is time for us to liberate the Soviet people from the vile Revisionists!"
- PRC_state_controlled_education:0 "State Controlled Education"
- PRC_state_controlled_education_desc:0 "Everything that will stray our people's faith in communism should not be taught in school!"
+ PRC_liberate_the_soviet_people:0 "Освободить советский народ"
+ PRC_liberate_the_soviet_people_desc:0 "Пришло время освободить советский народ от подлых ревизионистов!"
+ PRC_state_controlled_education:0 "Образование, контролируемое государством"
+ PRC_state_controlled_education_desc:0 "В школах не должно преподаваться все, что может поколебать веру нашего народа в коммунизм!"
 
- PRC_liberate_tibet:0 "Liberate Tibet"
- PRC_liberate_tibet_desc:0 "Tibet has long since been tricked to leave the Chinese family, now we must liberate them from the capitalist that contaminated their mind."
+ PRC_liberate_tibet:0 "Освободить Тибет"
+ PRC_liberate_tibet_desc:0 "Тибет уже давно обманом вынужден покинуть китайскую семью, теперь мы должны освободить его от капиталистов, которые загрязнили его разум."
 
- PRC_establish_air_force:0 "Establish People's Liberation Air Force"
- PRC_establish_air_force_desc:0 "With foreign helps, we can establish a proper air force."
+ PRC_establish_air_force:0 "Создать Народно-освободительные военно-воздушные силы"
+ PRC_establish_air_force_desc:0 "С иностранной помощью мы сможем создать надлежащие военно-воздушные силы."
 
- PRC_fighter_focus:0 "Fighter Focus"
- PRC_fighter_focus_desc:0 "We have not seen that last of dogfights in the Great War. Keeping ahead in the development of fighter planes will give us an edge in the future."
+ PRC_fighter_focus:0 "Фокус на истребителях"
+ PRC_fighter_focus_desc:0 "Мы не видели последних собачьих боев в Великой войне. Опережающее развитие истребителей даст нам преимущество в будущем."
 
- PRC_bomber_focus:0 "Bomber Focus"
- PRC_bomber_focus_desc:0 "When people of the future speak of the horror of today's wars, fire raining from the skies will prominently feature. We will do our best to ensure our enemies tell those stories."
+ PRC_bomber_focus:0 "Фокус на бомбардировщиках"
+ PRC_bomber_focus_desc:0 "Когда люди будущего будут говорить об ужасе сегодняшних войн, они будут часто вспоминать об огне, льющемся с неба. Мы сделаем все возможное, чтобы об этом рассказывали наши враги."
 
- PRC_cas_effort:0 "CAS Effort"
- PRC_cas_effort_desc:0 "A modern army needs support from vehicles on the ground and in the air."
+ PRC_cas_effort:0 "Улучшить CAS"
+ PRC_cas_effort_desc:0 "Современная армия нуждается в поддержке со стороны наземных и воздушных средств."
 
- PRC_nav_effort:0 "NAV Effort"
- PRC_nav_effort_desc:0 "Just as the new naval warfare takes place beneath the water's surface, part of it takes place in the air above the waters."
+ PRC_nav_effort:0 "Улучшить флот"
+ PRC_nav_effort_desc:0 "Так же как новая морская война происходит под поверхностью воды, часть ее происходит в воздухе над водами."
 
- PRC_economic_reform:0 "Economic Reform"
- PRC_economic_reform_desc:0 "The devastation brought by the Cultural Revolution is pushing our nation towards an abyss, we must seek reforms that can pull us out of it."
+ PRC_economic_reform:0 "Экономическая реформа"
+ PRC_economic_reform_desc:0 "Разрушения, принесенные Культурной революцией, толкают нашу нацию к пропасти, и мы должны искать реформы, которые смогут вытащить нас из нее."
 
- PRC_generalissimo_lin:0 "Generalissimo Lin"
- PRC_generalissimo_lin_desc:0 "Lin prove to be the only suitable person to lead our nation's military, thus he dubbed himself the generalissimo."
+ PRC_generalissimo_lin:0 "Генералиссимус Линь"
+ PRC_generalissimo_lin_desc:0 "Линь оказался единственным подходящим человеком для руководства вооруженными силами нашей страны, поэтому он прозвал себя генералиссимусом."
 
- PRC_armament_reorganization:0 "Armament Reorganization"
- PRC_armament_reorganization_desc:0 "We must strengthen our nation in our output of armaments."
+ PRC_armament_reorganization:0 "Реорганизация вооружений"
+ PRC_armament_reorganization_desc:0 "Мы должны укрепить нашу нацию в производстве вооружений."
  
- PRC_expand_taiyuan_arsenal:0 "Expand Taiyuan Arsenal"
- PRC_expand_taiyuan_arsenal_desc:0 "Taiyuan Arsenal is well-known for it's quality output, if we can increase it's production, we will benefit greatly from it."
+ PRC_expand_taiyuan_arsenal:0 "Расширить Тайюаньский арсенал"
+ PRC_expand_taiyuan_arsenal_desc:0 "Тайюаньский арсенал известен своим качественным производством, если мы сможем увеличить его производство, мы получим большую выгоду от этого".
 
- PRC_lure_them_in_strategy:0 "Lure-Them-In Strategy"
- PRC_lure_them_in_strategy_desc:0 "With our nation's vast territory and rough terrain, we can afford to retreat and lure invaders into battlefields of our choosing. Let the imperialists try and chase us! They shall encounter an ambush at every corner and a booby-trap with every step!"
+ PRC_lure_them_in_strategy:0 "Стратегия заманивания"
+ PRC_lure_them_in_strategy_desc:0 "Благодаря обширной территории и пересеченной местности мы можем позволить себе отступать и заманивать захватчиков на поля сражений по своему усмотрению. Пусть империалисты попробуют преследовать нас! На каждом углу их ждет засада, а на каждом шагу - мина-ловушка!"
 
- PRC_industrialization_NW:0 "Local Industrialization : North West"
- PRC_industrialization_NW_desc:0 "The North West region might look like a barren land for now, soon it will become one of most industrialized area."
+ PRC_industrialization_NW:0 "Местная индустриализация : Северо-Запад"
+ PRC_industrialization_NW_desc:0 "Северо-Западный регион может пока выглядеть как бесплодная земля, но вскоре он станет одним из самых индустриально развитых регионов."
 
- PRC_excavation_NW:0 "North West Excavation"
- PRC_excavation_NW_desc:0 "We must prospect for more resources in our land so that we can become independent from imported resources."
+ PRC_excavation_NW:0 "Северо-западные рудники"
+ PRC_excavation_NW_desc:0 "Мы должны искать больше ресурсов на нашей земле, чтобы стать независимыми от импорта."
 
- PRC_industrialization_S:0 "Local Industrialization : South"
- PRC_industrialization_S_desc:0 "The South may be one of the most industrialized are, but it can be much more improved."
+ PRC_industrialization_S:0 "Местная индустриализация : Юг"
+ PRC_industrialization_S_desc:0 "Юг может быть одним из самых промышленно развитых регионов, но он может быть гораздо более совершенным."
 
- PRC_excavation_S:0 "Rubber Plantation"
- PRC_excavation_S_desc:0 "The climate in the south is very suitable for rubber plantation, we should take good use of it."
+ PRC_excavation_S:0 "Каучуковая плантация"
+ PRC_excavation_S_desc:0 "Климат на юге страны очень подходит для выращивания каучука, и мы должны использовать его с пользой."
 
- PRC_excavation_NE:0 "North East Prospection"
- PRC_excavation_NE_desc:0 "The Japanese left numerous tools in the area, we can use them to discover new resources in the area."
+ PRC_excavation_NE:0 "Разведка Северо-Востока"
+ PRC_excavation_NE_desc:0 "Японцы оставили на этой территории множество инструментов, и мы можем использовать их для обнаружения новых ресурсов в этом районе."
 
- PRC_pioneering_the_north_east:0 "Found the Northeast Development Agency"
- PRC_pioneering_the_north_east_desc:0 "Although the Japanese developed parts of Manchuria, vast tracts of land remain untouched. We should begin a vast effort to fully bring these once barbaric lands into the modern world."
+ PRC_pioneering_the_north_east:0 "Основать Агентство по развитию северо-востока"
+ PRC_pioneering_the_north_east_desc:0 "Хотя японцы освоили часть Маньчжурии, огромные участки земли остаются нетронутыми. Мы должны начать масштабные усилия, чтобы полностью вернуть эти некогда варварские земли в современный мир."
 
- PRC_rectification:0 "Rectification Movement"
- PRC_rectification_desc:0 "Some of our comrades are not entirely following the guidance of communism, we must correct their way of thinking."
+ PRC_rectification:0 "Движение ректификации"
+ PRC_rectification_desc:0 "Некоторые из наших товарищей не совсем следуют указаниям коммунизма, мы должны исправить их образ мышления."
 
- PRC_increase_credibility_of_theory:0 "Increase Doctrine Confidence"
- PRC_increase_credibility_of_theory_desc:0 "With war efforts having been successful, we should increase confidence in our renewed theories."
+ PRC_increase_credibility_of_theory:0 "Повысить уверенность в доктрине"
+ PRC_increase_credibility_of_theory_desc:0 "Поскольку военные действия увенчались успехом, нам следует укрепить доверие к нашим обновленным теориям."
 
- PRC_front_line_behind_enemy_line:0 "Frontline Behind Enemy Line"
- PRC_front_line_behind_enemy_line_desc:0 "If we are to utilize the potential of guerilla warfare fully, we must establish operation behind our enemy's frontline, disrupt their supply route and allow them down."
+ PRC_front_line_behind_enemy_line:0 "Фронт за линией фронта"
+ PRC_front_line_behind_enemy_line_desc:0 "Если мы хотим в полной мере использовать потенциал партизанской войны, мы должны организовать операцию за линией фронта противника, нарушить его пути снабжения и пустить его под откос."
 
- PRC_exploit_our_enemys_mistake:0 "Exploit Our Enemy's Mistake"
- PRC_exploit_our_enemys_mistake_desc:0 "Our enemy's frontline operation is not very well-synergized, we can use this to our advantage and exploit it as much as possible."
+ PRC_exploit_our_enemys_mistake:0 "Учиться на ошибках врага"
+ PRC_exploit_our_enemys_mistake_desc:0 "Фронтовые операции противника не очень хорошо синергичны, мы можем использовать это в своих интересах и использовать как можно больше."
 
- PRC_dare_to_die_corps:0 "Dare-To-Die Corps"
- PRC_dare_to_die_corps_desc:0 "If we are to win the war against the invaders, our people must be brave enough to not afraid of death."
+ PRC_dare_to_die_corps:0 "Корпус Смелость и Смерть"
+ PRC_dare_to_die_corps_desc:0 "Если мы хотим победить в войне с захватчиками, наши люди должны быть достаточно храбрыми, чтобы не бояться смерти."
 
- PRC_march_into_sik:0 "Reclaim Sinkiang"
- PRC_march_into_sik_desc:0 "It is time for us to reclaim our lost territories, Sinkiang will soon be ours."
+ PRC_march_into_sik:0 "Захватить Синьцзян"
+ PRC_march_into_sik_desc:0 "Пришло время вернуть утраченные территории, и Синьцзян скоро будет наш."
 
- PRC_the_grand_northwest_united_proposal:0 "Grand Northwest Union Proposal"
- PRC_the_grand_northwest_united_proposal_desc:0 "The former Fengtian Clique general Zhang Xueliang has been planning to establish another government in the northwest region. This would then work with Sheng Shicai in Sinkiang to get supplies from the Soviets while we prepare a defense in the east. However, we must gain permission from the Comintern for this plan to become a reality."
+ PRC_the_grand_northwest_united_proposal:0 "Предложение Великого Северо-Западного Союза"
+ PRC_the_grand_northwest_united_proposal_desc:0 "Бывший генерал Фэнтяньской клики Чжан Сюэлян планирует создать другое правительство в северо-западном регионе. Оно будет сотрудничать с Шэн Шицаем в Синьцзяне, чтобы получать поставки от Советов, пока мы готовим оборону на востоке. Однако для того, чтобы этот план стал реальностью, мы должны получить разрешение Коминтерна."
 
- PRC_urge_zhang:0 "Contact Zhang Xueliang"
- PRC_urge_zhang_desc:0 "Now that we have decided our next move, it is time to inform Zhang about our plan..."
+ PRC_urge_zhang:0 "Связаться с Чжан Сюэлян"
+ PRC_urge_zhang_desc:0 "Теперь, когда мы определились с дальнейшими действиями, пришло время сообщить Чжану о нашем плане..."
 
- PRC_form_the_grand_northwest_united:0 "The Northwest National Defense Government"
- PRC_form_the_grand_northwest_united_desc:0 "With almost everything decided and Gansu secured, we can now make the plan of the "Grand Northwest Union" a reality."
+ PRC_form_the_grand_northwest_united:0 "Северо-западное правительство национальной обороны"
+ PRC_form_the_grand_northwest_united_desc:0 "Почти все решено, Ганьсу обеспечен, и теперь мы можем воплотить в жизнь план "Великого Северо-Западного Союза"."
 
- PRC_unite_against_the_jap:0 "Unite Against Japanese"
- PRC_unite_against_the_jap_desc:0 "Together we stand, divided we fall."
+ PRC_unite_against_the_jap:0 "Объединиться против Японии"
+ PRC_unite_against_the_jap_desc:0 "Вместе мы стоим, врозь мы падаем."
 
- PRC_destroy_mao_and_his_clique:0 "Destroy The Communists"
- PRC_destroy_mao_and_his_clique_desc:0 "Although as the head of a government crowded with communists, Zhang still think that only fascism is the only salvation for China. To fulfill the fascist idea, the communists must be eradicated."
+ PRC_destroy_mao_and_his_clique:0 "Уничтожить коммунистов"
+ PRC_destroy_mao_and_his_clique_desc:0 "Несмотря на то что Чжан возглавляет правительство, переполненное коммунистами, он по-прежнему считает, что только фашизм является единственным спасением для Китая. Чтобы воплотить фашистскую идею в жизнь, коммунисты должны быть уничтожены."
 
- PRC_trust_in_communism:0 "Trust In Communism"
- PRC_trust_in_communism_desc:0 "There is a reason why the communists can hold out so long against the NRA, a reason Zhang would want to find out."
+ PRC_trust_in_communism:0 "Вера в коммунизм"
+ PRC_trust_in_communism_desc:0 "Есть причина, по которой коммунисты могут так долго противостоять NRA, и эту причину Чжан хотел бы выяснить."
 
- PRC_government_reshuffle:0 "Government Reshuffle"
- PRC_government_reshuffle_desc:0 "Defeatists and over-optimists in the government can only lead to the downfall of this newly formed union. Actions must be taken to prevent such disaster from happening."
+ PRC_government_reshuffle:0 "Перестановка в правительстве"
+ PRC_government_reshuffle_desc:0 "Пораженцы и чрезмерные оптимисты в правительстве могут привести только к краху этого недавно созданного союза. Необходимо принять меры, чтобы не допустить такой катастрофы."
 
- PRC_invite_shx:0 "Suiyuan Corridor"
- PRC_invite_shx_desc:0 "By gaining access to Suiyuan, our forces can reach the front with ease. However, warlords in the region have been an obstacle for us to enact such plan."
+ PRC_invite_shx:0 "Коридор Суйюань"
+ PRC_invite_shx_desc:0 "Получив доступ к Суйюань, наши войска смогут легко добраться до фронта. Однако военачальники в регионе мешают нам осуществить этот план."
 
- PRC_retake_dongbei:0 "Retake Dongbei"
- PRC_retake_dongbei_desc:0 "Since the Japanese Invasion of Manchuria, the northeast region had been occupied by the Japanese. We will now take back what was rightfully ours!"
+ PRC_retake_dongbei:0 "Захватить Дунбэй"
+ PRC_retake_dongbei_desc:0 "С момента вторжения японцев в Маньчжурию северо-восточный регион был оккупирован японцами. Теперь мы вернем себе то, что принадлежало нам по праву!"
 
- PRC_winter_training:0 "Winter Training"
- PRC_winter_training_desc:0 "The extreme climate up north has been brutal. By giving out special training in cold time, our forces can coupe with the situation more easily."
+ PRC_winter_training:0 "Зимние тренировки"
+ PRC_winter_training_desc:0 "Экстремальный климат на севере был жестоким. Проводя специальную подготовку в холодное время, наши войска смогут легче справляться с ситуацией."
 
- PRC_mountain_training:0 "Mountain Training"
- PRC_mountain_training_desc:0 "The mountainous terrain of China will be a great barrier against our invaders' mechanized forces. Without the support of those mechanised forces, our men can easily dispatch our enemies with enough training."
+ PRC_mountain_training:0 "Обучение в горах"
+ PRC_mountain_training_desc:0 "Гористая местность Китая станет отличным препятствием для механизированных войск наших захватчиков. Без поддержки механизированных войск наши люди смогут легко справиться с врагами при достаточной подготовке."
 
  PRC_recall_feng_clique_generals:0 "Recall Fengtian Clique Generals"
  PRC_recall_feng_clique_generals_desc:0 "After strengthening his ground in the newly established government, Zhang has decided to recall former Fengtian Clique Generals to aid him in his plan to fight back the Japanese."
@@ -881,167 +881,167 @@
 
 
  ################################# EVENTS #########################
- prc.1.t:0 "Supply From [SOV.GetName]"
- prc.1.d:0 "With the route for Soviet supply opened, equipments and volunteers have arrived at Yan'an and await [Root.GetLeader]'s inspection."
- prc.1.a:0 "This will contribute greatly to the war against the Japanese."
+ prc.1.t:0 "Поставка из [SOV.GetName]"
+ prc.1.d:0 "После того как путь для советских поставок был открыт, снаряжение и добровольцы прибыли в Яньань и ожидают проверки [Root.GetLeader]."
+ prc.1.a:0 "Это внесет большой вклад в войну против японцев"
 
- prc.2.t:0 "Communist Army Incorporated"
- prc.2.d:0 "The communists have agreed to let us incorporate their man into our army, we will now stand together against our common enemy."
- prc.2.a:0 "Our enemy will not succeed!"
+ prc.2.t:0 "Коммунистическая армия инкорпорирована"
+ prc.2.d:0 "Коммунисты согласились, чтобы мы включили их человека в нашу армию, теперь мы будем вместе противостоять нашему общему врагу."
+ prc.2.a:0 "Наш враг не добьется успеха!"
 
- prc.3.t:0 "Mistaken Purge"
- prc.3.d:0 "In our effort trying to purge reactionaries within our rank, some comrades are mistaken to have been taken the 'right' path instead of 'left'. This will surely have an impact on our performance."
- prc.3.a:0 "Some of our comrades are too 'left' to call others 'right'..."
+ prc.3.t:0 "Ошибочная чистка"
+ prc.3.d:0 "В наших попытках очистить ряды реакционеров некоторые товарищи ошибочно встали на "правый" путь, а не на "левый". Это, несомненно, скажется на нашей работе."
+ prc.3.a:0 "Некоторые из наших товарищей слишком "левые", чтобы называть других "правыми"..."
 
- prc.4.t:0 "Talented Personnel"
- prc.4.d:0 "Some talented citizens have emerged from the society, we could give them a place among our institution."
- prc.4.a:0 "The progress will never stop!"
+ prc.4.t:0 "Талантливые кадры"
+ prc.4.d:0 "В обществе появилось несколько талантливых граждан, мы могли бы предоставить им место в нашем учреждении."
+ prc.4.a:0 "Прогресс никогда не остановится!"
 
- prc.5.t:0 "Stalin Passed Away"
- prc.5.d:0 "Our glorious leader, Joseph Vissarionovich Stalin, had been invited by Karl Marx and left us yesterday. A great loss for the Soviet people.\n\nA power struggle has started as powerful members of the party compete for the vacant position left by Stalin."
- prc.5.a:0 "A star falls..."
+ prc.5.t:0 "Сталин скончался"
+ prc.5.d:0 "Наш славный вождь, Иосиф Виссарионович Сталин, приглашенный Карлом Марксом, вчера покинул нас. Это большая потеря для советского народа.\n\nНачалась борьба за власть, когда влиятельные члены партии соперничают за вакантное место, оставленное Сталиным."
+ prc.5.a:0 "Звезда падает..."
 
- prc.6.t:0 "[GetMonth] Outline"
- prc.6.d:0 "After our Great Chairman Mao criticize the drama 'Hai Rui Dismissed From Office', a group of people had form a group to mitigate the effect of the statement as much as possible by defining Great Chairman Mao's statement as from a academic perspective. As Great Chairman Mao had praised the drama as a nice representation of the class conflict within socialist state before.\n\nThis backtrack of Great Chairman Mao has caused a stir in the nation, all the press has this event as their headline and report on wide extent."
- prc.6.a:0 "Hope nothing comes out of this..."
+ prc.6.t:0 "[GetMonth] План"
+ prc.6.d:0 "После того, как Великий Председатель Мао раскритиковал драму "Хай Жуй отстранен от должности", группа людей сформировала группу, чтобы смягчить эффект от заявления, насколько это возможно, определив заявление Великого Председателя Мао с академической точки зрения. Так как Великий Председатель Мао ранее оценил драму как хорошее представление классового конфликта в социалистическом государстве.\n\nЭто отступление Великого Председателя Мао вызвало переполох в стране, вся пресса вынесла это событие в заголовок и широко освещала его."
+ prc.6.a:0 "Надеюсь, из этого ничего не выйдет..."
 
- prc.7.t:0 "Cultural Revolution Begins"
- prc.7.d:0 "Great Chairman Mao has given out a notice stating that capitalism has corrupted some of the high ranking officials in the party, and that they must be pulled down from power. The notice also denied the outline published after Great Chairman Mao criticized the drama 'Hai Rui Dismissed From Office'.\n\nSome high ranking officials had been excommunicated from the Party in the same day."
- prc.7.a:0 "This does not look good..."
+ prc.7.t:0 "Начало культурной революции"
+ prc.7.d:0 "Великий председатель Мао распространил уведомление, в котором говорилось, что капитализм развратил некоторых высокопоставленных чиновников партии, и что они должны быть отстранены от власти. В уведомлении также опровергался конспект, опубликованный после того, как Великий Председатель Мао раскритиковал драму "Хай Жуй отстранен от должности"\n\nНекоторые высокопоставленные чиновники были отлучены от партии в тот же день."
+ prc.7.a:0 "Это выглядит не очень хорошо..."
 
- prc.8.t:0 "Death of Lin Biao"
- prc.8.d:0 "Lin Biao, the hand-picked heir of Great Chairman Mao had died in a plane crash in Öndörkhaan. The documents on the plane indicates the victims to be Lin and some of his family members. The exact reason of the crash is still unknown.\n\nLin's relationship with Great Chairman Mao has been deteriorating since their different opinion on the abolition of the position of National Chairman. Lin was said to be responsible for some attempted assassination of Great Chairman Mao and was believed to flee because of the fear of being the next target of the Red Guard."
- prc.8.a:0 "This is going out of control!"
+ prc.8.t:0 "Смерть Линь Бяо"
+ prc.8.d:0 "Линь Бяо, избранный наследник великого председателя Мао, погиб в авиакатастрофе в Ондорхаане. В документах на самолет указано, что жертвами стали Линь и некоторые члены его семьи. Точная причина катастрофы до сих пор неизвестна.\n\nОтношения Линя с Великим Председателем Мао ухудшились после того, как они разошлись во мнениях относительно упразднения должности Национального Председателя. Считается, что Линь был ответственен за некоторые попытки убийства Великого Председателя Мао и, как полагают, бежал из-за страха стать следующей целью Красной Гвардии."
+ prc.8.a:0 "Ситуация выходит из-под контроля!"
 
- prc.10.t:0 "Lin Biao Fled To [PRC_linbiao_flee_target.GetName]"
- prc.10.d:0 "Lin Biao, the hand-picked heir of Great Chairman Mao had fled to [PRC_linbiao_flee_target.GetName] and had arrived at [PRC_linbiao_flee_target.Capital.GetName] by plane. The Party and Great Chairman Mao announced that Lin fled because he feared he would be prosecuted for attempted assassination of Great Chairman Mao, thus seek asylum in [PRC_linbiao_flee_target.GetName].\n\nThe Red Guard has start criticizing Lin and his family members that did not participate in the flight, whom were beat to death by the Red Guard afterwards."
- prc.10.a:0 "It seems like Mao's closest men are starting to see his real face."
+ prc.10.t:0 "Линь Бяо бежал в [PRC_linbiao_flee_target.GetName]"
+ prc.10.d:0 "Линь Бяо, избранный наследник великого председателя Мао, бежал в [PRC_linbiao_flee_target.GetName] и прибыл в [PRC_linbiao_flee_target.Capital.GetName] самолетом. Партия и Великий Председатель Мао объявили, что Линь бежал, потому что боялся, что его будут преследовать за попытку убийства Великого Председателя Мао, и поэтому попросил убежища в [PRC_linbiao_flee_target.GetName].\n\nКрасная гвардия начала критиковать Лина и членов его семьи, не участвовавших в полете, которых после этого красногвардейцы избили до смерти."
+ prc.10.a:0 "Похоже, приближенные Мао начинают видеть его истинное лицо."
 
- prc.11.t:0 "Death of Zhou Enlai"
- prc.11.d:0 "Zhou Enlai, the chairperson of the Chinese People's Political Consultative Conference, had passed away. Despite his effort and his loyalty, Great Chairman Mao refused to attend his funeral. Despite the chaos going on, people around the nation held assemblies to mourn his death. The Monument to the People's Hero had seen many placing wreaths underneath it to mourn the death of this beloved Chairperson."
- prc.11.a:0 "A tragic loss..."
+ prc.11.t:0 "Смерть Чжоу Эньлая"
+ prc.11.d:0 "Скончался Чжоу Эньлай, председатель Народной политической консультативной конференции Китая. Несмотря на его старания и преданность, Великий Председатель Мао отказался присутствовать на его похоронах. Несмотря на царивший в стране хаос, люди по всей стране проводили собрания, чтобы оплакать его смерть. К памятнику Народному герою многие возложили венки, чтобы оплакать смерть любимого председателя."
+ prc.11.a:0 "Трагическая потеря..."
 
- prc.12.t:0 "Death of Mao Zedong"
- prc.12.d:0 "The Great Chairman, Mao Zedong had succumbed to numerous illness in his mansion in Zhongnanhai. The Great Chairman founded the CPC and emerged victorious during the Second Chinese Civil War, his health had been deteriorating rapidly since he found out Lin's traitorous act. Although he had recovered for a short period of time, he finally accepted the invitation of Karl Marx. His body is planned to be preserved in a crystal coffin in Tiananmen's newly established Mausoleum of Mao Zedong, so that the future generation can still admire this once glorious chairman of China."
- prc.12.a:0 "Another loss of leadership, this does not look good."
+ prc.12.t:0 "Смерть Мао Цзэдуна"
+ prc.12.d:0 "Великий председатель Мао Цзэдун скончался от многочисленных болезней в своем особняке в Чжуннаньхае. Великий председатель основал КПК и одержал победу во Второй китайской гражданской войне, его здоровье стремительно ухудшалось с тех пор, как он узнал о предательском поступке Линь. Хотя он восстанавливался недолго, в конце концов он принял приглашение Карла Маркса. Его тело планируют сохранить в хрустальном гробу в недавно созданном на Тяньаньмэнь мавзолее Мао Цзэдуна, чтобы будущее поколение могло и дальше восхищаться этим некогда славным председателем Китая."
+ prc.12.a:0 "Еще одна потеря руководства, это выглядит не очень хорошо"
 
- prc.13.t:0 "Gang Of Four Crushed"
- prc.13.d:0 "[Root.GetLeader] had arrested the 'Gang Of Four', which responsible for most of the movements in the later period of the 'Cultural Revolution', including the criticism of Confucius and Lin Biao. The head of the gang, Jiang Qing, who is Mao's widow, stated that they are just doing Mao's will. However Mao had tried to suppress the gang's power while he is still alive. With the 'Gang Of Four' gone, the chaos that lasted for almost a decade should be close to its end."
- prc.13.a:0 "They should have been arrested and executed a long time ago!"
+ prc.13.t:0 "Банда четырех разбита"
+ prc.13.d:0 "[Root.GetLeader] арестовал "Банду четырех", которая отвечала за большинство движений в поздний период "культурной революции", включая критику Конфуция и Линь Бяо. Главарь банды, Цзян Цин, вдова Мао, заявила, что они просто выполняют волю Мао. Однако Мао еще при жизни пытался подавить власть банды. С исчезновением "Банды четырех" хаос, продолжавшийся почти десять лет, должен быть близок к завершению."
+ prc.13.a:0 "Их давно следовало арестовать и казнить!"
 
- prc.14.t:0 "Foreign Investments"
- prc.14.d:0 "With our current reform going on, some foreign firms have been attracted to our economy and decided to invest into it. This will strengthen our economy even more."
- prc.14.a:0 "Our economy will become one of the strongest!"
+ prc.14.t:0 "Иностранные инвестиции"
+ prc.14.d:0 "Благодаря нынешней реформе некоторые иностранные компании заинтересовались нашей экономикой и решили инвестировать в нее. Это еще больше укрепит нашу экономику."
+ prc.14.a:0 "Наша экономика станет одной из самых сильных!"
 
- prc.15.t:0 "Foreign Research Introduction"
- prc.15.d:0 "Some foreign research is introduced into our laboratory and this will quicken the progress of our research."
- prc.15.a:0 "Science!"
+ prc.15.t:0 "Введение иностранных исследований"
+ prc.15.d:0 "В нашу лабораторию введены некоторые иностранные исследования, и это ускорит прогресс наших исследований."
+ prc.15.a:0 "Наука!"
 
- prc.21.t:0 "The Reform's Effect"
- prc.21.d:0 "The reform has created a strong enough nation for the Chinese people, and has more or less erased the effect brought by the 'Cultural Revolution'."
- prc.21.a:0 "China rises!"
+ prc.21.t:0 "Эффект реформы"
+ prc.21.d:0 "Реформа создала достаточно сильную нацию для китайского народа и более или менее стерла последствия "культурной революции"."
+ prc.21.a:0 "Китай поднимается!"
 
- prc.22.t:0 "Deng Xiaoping Seizes Power"
- prc.22.d:0 "After Hua Guofeng performed self-criticism on the recent meeting, Deng Xiaoping has stepped up to the highest position in the Party, thus becoming the most powerful person in the nation."
- prc.22.a:0 "Hope he is better than Hua..."
+ prc.22.t:0 "Дэн Сяопин захватывает власть"
+ prc.22.d:0 "После самокритики Хуа Гофэна на недавнем собрании Дэн Сяопин занял высший пост в партии и стал самым влиятельным человеком в стране."
+ prc.22.a:0 "Надеюсь, он лучше Хуа..."
 
- prc.23.t:0 "Lin Biao Seizes Power"
- prc.23.d:0 "Lin Biao, who fled to [SOV.GetName] during the 'Cultural Revolution' has returned and seizes power by launching a coup with his remaining subordinate that survive the Chaos Decade, overthrowing Hua Guofeng and seizes the seat of the National Chairman."
- prc.23.a:0 "A ghost of the past!"
+ prc.23.t:0 "Линь Бяо захватывает власть"
+ prc.23.d:0 "Линь Бяо, который бежал в [SOV.GetName] во время "Культурной революции" вернулся и захватил власть, устроив переворот с оставшимися подчиненными, пережившими Десятилетие хаоса, свергнув Хуа Гофэна и заняв место Национального председателя."
+ prc.23.a:0 "Призрак прошлого!"
 
- prc.24.t:0 "The West Expedition"
- prc.24.d:0 "The unbearable progress of the west expedition had Mao thinks for a truce to put a stop to this profitless expedition."
- prc.24.a:0 "The expedition has failed."
- prc.24.b:0 "We just have to wait."
+ prc.24.t:0 "Западная экспедиция"
+ prc.24.d:0 "Невыносимый прогресс западной экспедиции заставил Мао подумать о перемирии, чтобы положить конец этой бесполезной экспедиции."
+ prc.24.a:0 "Экспедиция провалилась"
+ prc.24.b:0 "Нам остается только ждать"
 
- prc.25.t:0 "Bai Qiuen's Visit"
- prc.25.d:0 "The Canadian communist Norman Bethune, also known as Bai Qiuen, has visited Mao yesterday. Bai insisted that he will perform field surgeries for our soldiers to help our war against the Japanese."
- prc.25.a:0 "A medic is what we need!"
+ prc.25.t:0 "Визит Бай Цюэня"
+ prc.25.d:0 "Канадский коммунист Норман Бетюн, также известный как Бай Цюэнь, вчера посетил Мао. Бай настаивал, что будет делать полевые операции для наших солдат, чтобы помочь нашей войне против японцев."
+ prc.25.a:0 "Медик - это то, что нам нужно!"
 
- prc.26.t:0 "[GetMonth] Countercurrent"
- prc.26.d:0 "The conflict between some senior members in the party and Jiang Qing has become more obvious. Jiang Qing's group has framed the senior members as reactionaries, leading to some of them being distrusted by Mao."
- prc.26.a:0 "Politics are dark things."
+ prc.26.t:0 "[GetMonth] Кровопролития"
+ prc.26.d:0 "Конфликт между некоторыми старшими членами партии и Цзян Цином стал более очевидным. Группа Цзян Цина выставила старших членов партии реакционерами, что привело к недоверию к некоторым из них со стороны Мао."
+ prc.26.a:0 "Политика - дело темное."
 
- prc.27.t:0 "He Long Under House Arrest"
- prc.27.d:0 "He Long's disobedience of Mao's order to 'root out the capitalists' has led to distrust by Mao, and He long was put under house arrest yesterday in Xi Shan."
- prc.27.a:0 "Politics are dark things."
+ prc.27.t:0 "Хэ Лонг под домашним арестом"
+ prc.27.d:0 "Неповиновение Хэ Лонга приказу Мао "искоренить капиталистов" вызвало недоверие Мао, и вчера Хэ Лонг был помещен под домашний арест в Си Шань."
+ prc.27.a:0 "Политика - дело темное."
 
- prc.28.t:0 "Peng De Huai Abducted"
- prc.28.d:0 "Jiang Qing has approved the Red Guard to abduct general Peng De Huai, and Peng has been interrogated. After the interrogation, Peng was put into jail."
- prc.28.a:0 "Politics are dark things."
+ prc.28.t:0 "Пэн Дэ Хуай похищен"
+ prc.28.d:0 "Цзян Цин разрешил Красной гвардии похитить генерала Пэн Дэ Хуая, и Пэн был допрошен. После допроса Пэн был посажен в тюрьму."
+ prc.28.a:0 "Политика - дело темное."
 
- prc.29.t:0 "Nie Rong Zhen Demoted"
- prc.29.d:0 "Nie Rong Zhen has been demoted to work in a chemical plant in Han Dan by the order of Mao."
- prc.29.a:0 "Politics are dark things."
+ prc.29.t:0 "Ни Ронг Чжэнь понижен в должности"
+ prc.29.d:0 "Ние Ронг Чжэнь по приказу Мао был понижен в должности и переведен на работу на химический завод в Ханьдане."
+ prc.29.a:0 "Политика - дело темное."
 
- prc.30.t:0 "The End Of Power Struggle"
- prc.30.d:0 "After a power struggle for almost 3 years, [Root.GetLeader] now rise to the cavant position left by Stalin and assumed the most powerful person in Soviet Union."
- prc.30.a:0 "Hope this is the best outcome"
+ prc.30.t:0 "Конец борьбы за власть"
+ prc.30.d:0 "После борьбы за власть, продолжавшейся почти 3 года, [Root.GetLeader] теперь занял место, оставленное Сталиным, и стал самым влиятельным человеком в Советском Союзе."
+ prc.30.a:0 "Надеюсь, это лучший результат"
 
- prc.36.t:0 "[PRC.GetName] Planning On Invading [SIK.GetName]"
- prc.36.d:0 "Our informant in [PRC.GetName] has verified that they are planning on taking [SIK.GetName] by force."
- prc.36.a:0 "Demand [SIK.GetLeader] to cooperate to avoid bloodshed."
- prc.36.b:0 "Demand [PRC.GetLeader] to abandon this idea."
- prc.36.c:0 "Interesting..."
+ prc.36.t:0 "[PRC.GetName] планирует вторжение в [SIK.GetName]"
+ prc.36.d:0 "Наш информатор в [PRC.GetName] подтвердил, что они планируют взять [SIK.GetName] силой."
+ prc.36.a:0 "[SIK.GetLeader] просит сотрудничество, чтобы избежать кровопролития."
+ prc.36.b:0 "[PRC.GetLeader] просит отказаться от этой идеи."
+ prc.36.c:0 "Интересно..."
 
- prc.37.t:0 "Herald From [SOV.GetName]"
- prc.37.d:0 "[SOV.GetLeader] has demanded that we submit to [PRC.GetName] peacefully, to avoid more blood being spilt."
- prc.37.a:0 "They are right, this is for the greater good of our people."
- prc.37.b:0 "Such nonsense! We won't give in without a fight!"
+ prc.37.t:0 "Посол из [SOV.GetName]"
+ prc.37.d:0 "[SOV.GetLeader] потребовал, чтобы мы подчинились [PRC.GetName] мирно, чтобы не пролилось много крови."
+ prc.37.a:0 "Они правы, это делается ради блага нашего народа."
+ prc.37.b:0 "Какая чушь! Мы не сдадимся без боя.!"
 
- prc.38.d:0 "[SOV.GetLeader] has demanded that we scrapped our plan to invade [SIK.GetName]."
- prc.38.a:0 "[SOV.GetLeader]'s words aren't the wisest, [PRC.GetLeader]'s are!"
- prc.38.b:0 "Don't draw unwanted attention."
+ prc.38.d:0 "[SOV.GetLeader] потребовал, чтобы мы отказались от плана вторжения в [SIK.GetName]."
+ prc.38.a:0 "[SOV.GetLeader] слова не самые мудрые, в отличии от [PRC.GetLeader]!"
+ prc.38.b:0 "Не привлекайте ненужного внимания."
 
- prc.39.t:0 "[SOV.GetName] Intervention"
- prc.39.d:0 "With [SOV.GetName]'s intervention, [SIK.GetName] submitted to us peacefully."
- prc.39.a:0 "One way or another, our goal is accomplished."
+ prc.39.t:0 "[SOV.GetName] Интервенция"
+ prc.39.d:0 "С [SOV.GetName]'интервенцией, [SIK.GetName] мирно подчинился нам."
+ prc.39.a:0 "Так или иначе, наша цель достигнута."
 
- prc.40.t:0 "[SIK.GetName] Defiant"
- prc.40.d:0 "[SIK.GetLeader] has refused to submit peacefully to [PRC.GetName]!"
- prc.40.a:0 "How dare they don't follow our orders!"
+ prc.40.t:0 "[SIK.GetName] возмутительно"
+ prc.40.d:0 "[SIK.GetLeader] отказался мирно подчиниться [PRC.GetName]!"
+ prc.40.a:0 "Как они смеют не выполнять наши приказы?!"
 
- prc.41.t:0 "[PRC.GetName] Defiant"
- prc.41.d:0 "[PRC.GetLeader] has refused to abandon their plan on invading [SIK.GetName]!"
+ prc.41.t:0 "[PRC.GetName] возмутительно"
+ prc.41.d:0 "[PRC.GetLeader] отказались от своего плана вторжения в [SIK.GetName]!"
 
- prc.42.t:0 "[PRC.GetLeader] Obeyed Our Order"
- prc.42.d:0 "[SIK.GetLeader] has abandon their plan on invading [SIK.GetName]!"
- prc.42.a:0 "At least they still know their place."
+ prc.42.t:0 "[PRC.GetLeader] Повиновался нашему приказу"
+ prc.42.d:0 "[SIK.GetLeader] отказались от своего плана вторжения в [SIK.GetName]!"
+ prc.42.a:0 "По крайней мере, они все еще знают свое место."
 
- prc.43.t:0 "[SOV.GetNameADJ] Reinforcements"
- prc.43.d:0 "Regarding [SIK.GetName]'s resilient towards submission, [SOV.GetName] has sent reinforcements to help us."
- prc.43.a:0 "These forces will be vital to our effort!"
+ prc.43.t:0 "[SOV.GetNameADJ] подкрепления"
+ prc.43.d:0 "Что касаемо [SIK.GetName] упрямого подчинения, [SOV.GetName] прислал подкрепление, чтобы помочь нам."
+ prc.43.a:0 "Эти силы будут жизненно важны для наших усилий!"
 
- prc.44.d:0 "Regarding [PRC.GetName]'s warmongering, [SOV.GetName] has sent reinforcements to help us."
+ prc.44.d:0 "Что касаемо [PRC.GetName] это подстрекательство к войне, [SOV.GetName] прислал подкрепление, чтобы помочь нам."
 
- prc.46.t:0 "Assassination Of Mao Zedong"
- prc.46.d:0 "Our Great Chairman, Mao Zedong, has been killed in a knavish assassination attempt today. His hand-picked successor to the position, Lin Biao, has decided to end the Cultural Revolution once and for all. All opposition has been dealt with swiftly and our nation is recovering from the damage done in the disaster, at least on some extent.\n\nAlthough some conspiracies state that Lin stages the assassination for him to take the position, no evidence can proof it to be the truth."
- prc.46.a:0 "A devastating loss."
+ prc.46.t:0 "Убийство Мао Цзэдуна"
+ prc.46.d:0 "Наш Великий Председатель Мао Цзэдун был убит сегодня в результате коварного покушения. Его преемник на этом посту Линь Бяо решил покончить с Культурной революцией раз и навсегда. Со всеми оппозиционерами быстро разобрались, и наша нация, по крайней мере в некоторой степени, оправляется от нанесенного катастрофой ущерба.\n\nХотя некоторые заговорщики утверждают, что Линь подстроил убийство, чтобы занять свой пост, никакие доказательства не могут подтвердить, что это правда."
+ prc.46.a:0 "Опустошительная потеря"
 
- prc.47.t:0 "Mao Zedong Survive Assassination"
- prc.47.d:0 "Our Great Chairman, Mao Zedong, has survived a knavish assassination attempt today. The assassin was spotted before he can do any harm to our beloved Great Chairman. However the assassin seems to be extremely loyal to his master as he did not say a word during interrogation.\n\nWild rumours suggested that Lin Biao, the hand-picked successor to Mao's position, staged this assassination attempt. While there are no evidence to proof it to be the truth, some Red Guards are starting to criticize Lin Biao for such 'treason'."
- prc.47.a:0 "Long live our Great Chairman Mao Zedong!"
+ prc.47.t:0 "Мао Цзэдун пережил покушение"
+ prc.47.d:0 "Наш Великий Председатель, Мао Цзэдун, пережил сегодняшнее коварное покушение. Убийца был обнаружен до того, как он смог причинить вред нашему любимому Великому Председателю. Однако убийца, похоже, был очень предан своему хозяину, так как не проронил ни слова во время допроса.\n\nПо диким слухам, Линь Бяо, избранный преемник Мао, организовал это покушение. Хотя нет никаких доказательств того, что это правда, некоторые красногвардейцы начинают критиковать Линь Бяо за такое "предательство"."
+ prc.47.a:0 "Да здравствует наш Великий Председатель Мао Цзэдун!"
 
- prc.48.t:0 "Assistance From Soviet"
- prc.48.d:0 "Soviet Union has sent assistance to help our war against the Japanese."
- prc.48.a:0 "This will be vital to our war effort."
+ prc.48.t:0 "Помощь от Советского Союза"
+ prc.48.d:0 "Советский Союз прислал помощь, чтобы помочь нашей войне против японцев."
+ prc.48.a:0 "Это будет жизненно важно для наших военных усилий"
 
- prc.49.t:0 "Our Partisans Rise Up"
- prc.49.d:0 "Our partisans in Manchuria has risen up and help us gain control of the area."
- prc.49.a:0 "Splendid!"
+ prc.49.t:0 "Наши партизаны восстают"
+ prc.49.d:0 "Наши партизаны в Маньчжурии восстали и помогают нам установить контроль над этим районом."
+ prc.49.a:0 "Великолепно!"
 
- prc.50.t:0 "Defectors From NRA"
- prc.50.d:0 "Some soldiers from the NRA have decided to defect to our side."
- prc.50.a:0 "[CHI.GetLeader]'s poor decision causes his failure."
+ prc.50.t:0 "Дезертиры из НРА"
+ prc.50.d:0 "Некоторые солдаты из НРА решили перейти на нашу сторону."
+ prc.50.a:0 "[CHI.GetLeader] неправильное решение становится причиной его неудачи."
 
- prc.51.t:0 "Inspiring Victory"
- prc.51.d:0 "Reports from the frontline have brought back good news. Sporadic clashes of our forces has resulted in our victory and our army's morale has skyrocketed!"
- prc.51.a:0 "March on, comrades!"
+ prc.51.t:0 "Вдохновляющая победа"
+ prc.51.d:0 "Доклады с фронта принесли хорошие новости. Спорадические столкновения наших сил привели к победе, и боевой дух нашей армии резко возрос!"
+ prc.51.a:0 "Марш вперед, товарищи!"
 
- prc.66.t:0 "Chen Duxiu"
- prc.66.d:0 "With the return of Trotsky in [SOV.GetNameDEF], Trotskyism supporters around the world have risen up and criticized the "corrupted" communism that Stalin has created. Among them is one of our former comrade - Chen Duxiu. If we are to keep a good relationship with [SOV.GetNameDEF], we should put Chen in power and get rid of Mao."
- prc.66.a:0 "Let's push forward the idea of Permanent Revolution!"
- prc.66.b:0 "Trotskyism is a treacherous ideology tied with fascism!"
+ prc.66.t:0 "Чэнь Дусю"
+ prc.66.d:0 "С возвращением Троцкого в [SOV.GetNameDEF], сторонники троцкизма по всему миру поднялись и выступили с критикой "испорченного" коммунизма, созданного Сталиным. Среди них один из наших бывших товарищей - Чэнь Дусю. Если мы хотим сохранить хорошие отношения с [SOV.GetNameDEF], нам следует поставить у власти Чэня и избавиться от Мао."
+ prc.66.a:0 "Давайте продвигать идею Перманентной революции!"
+ prc.66.b:0 "Троцкизм - это предательская идеология, связанная с фашизмом!"
 
  prc.54.t:0 "Proposal From [From.GetName]"
  prc.54.d:0 "We have recently received a proposal from [From.GetLeader]'s representative. Stating that they would like to seek our permission to establish another government in the northwest region of China, and use our support to fight against the Japanese and [CHI.GetRulingParty]."
@@ -1305,61 +1305,61 @@
  
 
  ############ events transferred from KMT #######################3
- kmt.32.t:0 "The Hundred Flowers Campaign Begins"
- kmt.32.d:0 "The Hundred Flowers Campaign has been set in motion. Now we just need to wait for the rightist pigs to show themselves."
- kmt.32.a:0 "Let a hundred flowers bloom so we can pluck them."
+ kmt.32.t:0 "Кампания "Сто цветов" началась"
+ kmt.32.d:0 "Кампания "Сто цветов" началась. Осталось дождаться, когда правые свиньи покажут себя."
+ kmt.32.a:0 "Пусть расцветают сто цветов, чтобы мы могли их сорвать"
  
- kmt.33.t:0 "Progress Of The Campaign"
- kmt.33.d:0 "The campaign has been underway for just a few month and already some capitalist rodents have criticized the government. We can continue that campaign and lure more of the reactionary swine out of their lairs, but their views might dampen the people's faith in communism."
- kmt.33.a:0 "We will arrest those rightist pigs now."
- kmt.33.b:0 "We should lure more of them out."
+ kmt.33.t:0 "Ход кампании"
+ kmt.33.d:0 "Кампания ведется всего несколько месяцев, а некоторые капиталистические грызуны уже критикуют правительство. Мы можем продолжать эту кампанию и выманить еще больше реакционных свиней из их логовищ, но их взгляды могут ослабить веру народа в коммунизм."
+ kmt.33.a:0 "Мы арестуем этих правых свиней прямо сейчас"
+ kmt.33.b:0 "Мы должны выманить больше таких свиней"
  
- kmt.34.t:0 "More Criticism From The People"
- kmt.34.d:0 "The longer the campaign goes on, the more criticism the government receives. This will only get worse if we do not bring out the whip soon."
- kmt.34.a:0 "We will throw the dissident scum in jail."
- kmt.34.b:0 "We must be patient."
- KMT_baihua_stage_2_tt:0 "More Rightists Join the Ranks of the Critics"
+ kmt.34.t:0 "Больше критики от народа"
+ kmt.34.d:0 "Чем дольше продолжается кампания, тем больше критики получает правительство. Это будет только ухудшаться, если мы не выпустим кнут в ближайшее время."
+ kmt.34.a:0 "Мы бросим диссидентствующих подонков в тюрьму"
+ kmt.34.b:0 "Мы должны быть терпеливыми"
+ KMT_baihua_stage_2_tt:0 "Все больше правых пополняют ряды критиков"
 
- kmt.35.t:0 "Criticism Becomes More Radical"
- kmt.35.d:0 "At first, the criticism was mild. But as time goes on, more extreme voices can be heard; voices which call for action. If we do not act soon, we may have a counterrevolution on our hands."
- kmt.35.a:0 "We will make sure that they never say anything ever again."
- kmt.35.b:0 "They are but the lackeys of the real reactionaries. We must wait for the leaders of reaction to show their face."
- KMT_baihua_stage_3_tt:0 "Critiques Become More Extreme"
+ kmt.35.t:0 "Критика становится более радикальной"
+ kmt.35.d:0 "Сначала критика была мягкой. Но со временем слышны все более экстремальные голоса; голоса, призывающие к действию. Если мы не примем меры в ближайшее время, мы можем получить контрреволюцию на руки."
+ kmt.35.a:0 "Мы сделаем так, чтобы они больше никогда ничего не говорили"
+ kmt.35.b:0 "Они всего лишь лакеи настоящих реакционеров. Мы должны ждать, когда лидеры реакции покажут свое лицо"
+ KMT_baihua_stage_3_tt:0 "Критика становится все более экстремальной"
  
- kmt.36.t:0 "Calls for Insurrection"
- kmt.36.d:0 "As we let the radical comments slide, some fools are calling for the immediate overthrow of the people's government. Some cadres are starting to fear for their lives. Should we end the campaign now?"
- kmt.36.a:0 "They will have nowhere to hide now."
- kmt.36.b:0 "We nearly have all of the bastards, just a few more weeks and we can chop off all their heads with one stroke!"
- KMT_baihua_stage_4_tt:0 "People Start to Lose Faith in Communism"
+ kmt.36.t:0 "Призывы к восстанию"
+ kmt.36.d:0 "Пока мы отпускаем радикальные комментарии, некоторые глупцы призывают к немедленному свержению народного правительства. Некоторые сотрудники начинают опасаться за свою жизнь. Должны ли мы прекратить кампанию сейчас?"
+ kmt.36.a:0 "Теперь им негде будет спрятаться"
+ kmt.36.b:0 "Мы почти настигли всех этих ублюдков, еще несколько недель, и мы сможем отрубить им головы одним ударом!"
+ KMT_baihua_stage_4_tt:0 "Люди начинают терять веру в коммунизм"
  
- kmt.37.t:0 "On The Brink Of Collapse"
- kmt.37.d:0 "The level and amount of verbal attacks on the government has become unbearable. In order to safeguard the Workers' and Peasants' revolution, we must arrest all the troublemakers now!"
- kmt.37.a:0 "For the sake of the Party, we must put an end to all opposition. Permanently."
- baihua_end_now:0 "The Campaign will end now.\n"
+ kmt.37.t:0 "На грани краха"
+ kmt.37.d:0 "Уровень и количество словесных атак на правительство стали невыносимыми. Чтобы уберечь рабоче-крестьянскую революцию, мы должны немедленно арестовать всех смутьянов!"
+ kmt.37.a:0 "Ради партии мы должны покончить с любой оппозицией. И навсегда"
+ baihua_end_now:0 "Кампания закончится сейчас.\n"
  
- kmt.39.t:0 "The Great Leap Forward Begins"
- kmt.39.d:0 "The Great Leap Forward has begun. Soon, we shall achieve a total and scientific communism!"
- kmt.39.a:0 "We will surpass the Western world!"
+ kmt.39.t:0 "Великий скачок вперед начинается"
+ kmt.39.d:0 "Великий скачок вперед начался. Скоро мы достигнем полного и научного коммунизма!"
+ kmt.39.a:0 "Мы превзойдем западный мир!"
  
- kmt.40.t:0 "Backyard Furnaces Built"
- kmt.40.d:0 "Some of the people have built their own backyard furnaces without government intervention. This a truly a sign of our nation's unity."
- kmt.40.a:0 "With such progress, we will surpass the Western world in no time!"
+ kmt.40.t:0 "Построены дворовые печи"
+ kmt.40.d:0 "Некоторые люди построили свои собственные печи на заднем дворе без вмешательства правительства. Это действительно признак единства нашей нации."
+ kmt.40.a:0 "С таким прогрессом мы быстро превзойдем западный мир!"
  
- kmt.43.t:0 "Famine"
- kmt.43.d:0 "Famine has hit some of our provinces due to peasants feeding the farm tools into the furnaces. No one can collect the crops without the equipment to do so. Crops that are collected are sent abroad to pay for industrial equipment."
- kmt.43.a:0 "But the reports say that harvests up 400%..."
+ kmt.43.t:0 "Голод"
+ kmt.43.d:0 "Голод охватил некоторые наши провинции из-за того, что крестьяне скармливают сельскохозяйственные инструменты в печах. Никто не может собирать урожай без соответствующего оборудования. Собранный урожай отправляется за границу, чтобы оплатить промышленное оборудование."
+ kmt.43.a:0 "Но в отчетах говорится, что урожаи выросли на 400%..."
  
- kmt.46.t:0 "The Great Leap Forward Has Landed Backwards"
- kmt.46.d:0 "After a Party Congress, Chairman Mao has decided, with extreme regret, to end the Great Leap Forward. The bodies of starved peasants and pieces of pig iron litter the countryside. It turns out that one cannot make steel in their backyard after all."
- kmt.46.a:0 "The Great Leap Forward has given China a harvest of hunger rather than progress."
+ kmt.46.t:0 "Великий скачок вперед приземлился задом наперед"
+ kmt.46.d:0 "После партийного съезда председатель Мао с крайним сожалением решил положить конец Великому скачку. Тела умерших от голода крестьян и куски чугуна устилают сельскую местность. Оказалось, что на своем подворье нельзя делать сталь."
+ kmt.46.a:0 "Великий скачок дал Китаю урожай голода, а не прогресса"
  
- kmt.47.t:0 "Mao Visited Local Commune"
- kmt.47.d:0 "Chairman Mao was extremely pleased to see the dedication of the peasants in one commune in Henan. In honor of their proletarian spirit, he has given his blessing to such communes all across China."
- kmt.47.a:0 "Our people are truly devoted to the party!"
+ kmt.47.t:0 "Мао посетил местную коммуну"
+ kmt.47.d:0 "Председатель Мао был чрезвычайно доволен, увидев самоотверженность крестьян одной из коммун в Хэнани. В знак уважения к их пролетарскому духу он дал свое благословение таким коммунам по всему Китаю."
+ kmt.47.a:0 "Наши люди действительно преданы партии!"
 
- prc.126.t:0 "Mao takes leadership"
- prc.126.d:0 "After the long march, many of our other military leaders' divisions have been weakened by fighting. Mao's own army has been relatively untouched. Furthermore, his recent speeches among the army have also made one thing clear. He's now the undisputed leader of our cause!"
- prc.126.a:0 "Forward to better days."
+ prc.126.t:0 "Мао берет на себя руководство"
+ prc.126.d:0 "После долгого марша многие дивизии других наших военачальников были ослаблены боями. Армия самого Мао осталась относительно нетронутой. Более того, его недавние выступления в армии прояснили одну вещь. Теперь он - бесспорный лидер нашего дела!"
+ prc.126.a:0 "Вперед, к лучшим дням"
 
 
  ## UNUSED ##
