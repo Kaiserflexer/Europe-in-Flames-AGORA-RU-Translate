@@ -1,8 +1,8 @@
-﻿l_english:
+﻿l_russian:
  #Inter-american conference
- conference_cat:0 "The Inter-American Conference"
- conference_cat_desc:0 "We must meditate what position we will take at the next conference of American states. The most appropriate thing now is to examine our internal situation to ensure that our decisions will be the most profitable for our nation."
- conference_mission1:0 "Choose our industrial priority"
- conference_mission2:0 "Decide our military preference"
- conference_mission3:0 "Choose our research focus"
- conference_mission4:0 "Conference in progress"
+ conference_cat:0 "Межамериканская Конференция"
+ conference_cat_desc:0 "Мы должны обдумать, какую позицию займем на следующей конференции американских государств. Самое правильное сейчас - изучить нашу внутреннюю ситуацию, чтобы убедиться, что наши решения будут наиболее выгодными для нашей нации."
+ conference_mission1:0 "Выбрать наш промышленный приоритет"
+ conference_mission2:0 "Определить наши военные предпочтения"
+ conference_mission3:0 "Выбрать направление исследований"
+ conference_mission4:0 "Конференция в процессе"

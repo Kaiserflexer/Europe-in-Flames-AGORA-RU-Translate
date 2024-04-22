@@ -1,0 +1,8 @@
+﻿l_russian:
+ ROM_faction_decision:0 "Разделенная Румыния"
+ ROM_parties_banned:0 "Все партии §Yразгромлены§! или одна из партий §Yсовершает переворот§!"
+ ROM_iron_guard_increasing_popularity:0 "Железная гвардия мешает правительству"
+ ROM_communist_party_increasing_popularity:0 "Популярность Коммунистической партии Румынии растет"
+ ROM_democrats_party_increasing_popularity:0 "Пропаганда выборов"
+ ROM_king_party_increasing_popularity:0 "Внедрение Монархии"
+ ROM_the_coup:0 "Большой переворот" 

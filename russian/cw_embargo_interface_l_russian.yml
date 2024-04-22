@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
  CW_THEY_EMBARGO_TT:0 "Show [THIS.GetAdjective] Embargo's."
  CW_THEY_EMBARGO_TTL:0 "Click to see countries that are embargoed by [THIS.GetNameDef]."
  CW_THEY_EMBARGO_AGAINST_TT:0 "Show Embargo's against [THIS.GetNameDef]."

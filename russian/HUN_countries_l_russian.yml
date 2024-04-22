@@ -1,0 +1,57 @@
+﻿l_russian:
+ HNK_fascism:0 "Гунский Каганат"
+ HNK_fascism_DEF:0 "Гунский Каганат"
+ HNK_democratic:0 "Соединенные Штаты Гуньи"
+ HNK_democratic_DEF:0 "Соединенные Штаты Гуньи"
+ HNK_neutrality:0 "Гунский Каганат"
+ HNK_neutrality_DEF:0 "Гунский Каганат"
+ HNK_communism:0 "Гунская Коммуна"
+ HNK_communism_DEF:0 "Гунская Коммуна"
+ HNK_fascism_ADJ:0 "Гунск"
+ HNK_democratic_ADJ:0 "Гунск"
+ HNK_neutrality_ADJ:0 "Гунск"
+ HNK_communism_ADJ:0 "Гунск"
+ HNK:0 "Гунск"
+ HNK_DEF:0 "Гунск"
+ HNK_ADJ:0 "Гунск"
+ AVP_fascism:0 "Европейская Империя Гуннов"
+ AVP_fascism_DEF:0 "Европейская Империя Гуннов"
+ AVP_democratic:0 "Объединенное европейское государство гуннов"
+ AVP_democratic_DEF:0 "Объединенное европейское государство гуннов"
+ AVP_neutrality:0 "Европейская империя гуннов"
+ AVP_neutrality_DEF:0 "Европейская империя гуннов
+ AVP_communism:0 "Европейская гуннская коммуна"
+ AVP_communism_DEF:0 "Европейская гуннская коммуна"
+ AVP_fascism_ADJ:0 "Гунск"
+ AVP_democratic_ADJ:0 "Гунск"
+ AVP_neutrality_ADJ:0 "Гунск"
+ AVP_communism_ADJ:0 "Гунск"
+ AVP:0 "Гунск"
+ AVP_DEF:0 "Гунск"
+ AVP_ADJ:0 "Гунск"
+ 
+ ASH_neutrality:0 "Великая империя гуннов"
+ ASH_neutrality_DEF:0 "Великая империя гуннов"
+ 
+ GAU_neutrality:0 "Ниласкерезтес Австро-Венгерская империя"
+ GAU_neutrality_DEF:0 "Ниласкерезтес Австро-Венгерская империя"
+ 
+ VDB_neutrality:0 "Австрийская объединенная немецкая конфедерация"
+ VDB_neutrality_DEF:0 "Австрийская объединенная немецкая конфедерация"
+
+ DAN_democratic:0 "Соединенные Штаты Великой Австрии"
+ DAN_democratic_DEF:0 "Соединенные Штаты Великой Австрии"
+
+
+
+
+
+
+
+
+
+
+
+
+
+

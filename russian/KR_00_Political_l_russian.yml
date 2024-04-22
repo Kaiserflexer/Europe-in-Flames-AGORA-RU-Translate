@@ -1,0 +1,45 @@
+﻿l_russian:
+
+### Demobilisation ###
+ mobilisation_penalty_modifier:0 "Выше предела дивизий"
+
+ unit_limit_count:0 "[unit_limit_count_loc]/[?max_Дивизии|H0]"
+
+ unit_limit_count_red:0 "[?num_actual_Дивизии|R0]"
+ unit_limit_count_yellow:0 "[?num_actual_Дивизии|H0]"
+ unit_limit_count_green:0 "[?num_actual_Дивизии|G0]"
+
+ unit_limit_factory_bonus:0 "Бонус фабрик к лимиту дивизий"
+ unit_limit_bonus:0 "Лимит дивизий"
+ unit_limit_subject_bonus:0 "Добавлен лимит дивизий для оверлорда"
+
+ unit_limit_label:0 "§HMaximum Supported Дивизии§!\nДивизии: [?max_divisions|H0]\n\nБазовое значение: [?base_units|G1]\n   - Из населения региона: [?core_base|G1][unit_limit_noncore_population][unit_limit_subject_population_bonus]\n   - Из территорий под контролем: [?num_owned_states|G0][unit_limit_subject_state_bonus]\n\nМножитель количества фабрик: [?industry_factor_uncapped|H%][unit_limit_modifier_was_capped][unit_limit_modified_by][unit_limit_faction_leader][unit_limit_economy_law]\n\nDefault: [?global.base_unit_limit_bonus|G=0][unit_limit_bonus_used]"
+ unit_limit_desc:0 "Каждая страна способна содержать только определенное количество отдельных военных Дивизий, прежде чем ее экономика и инфраструктура перестанут справляться с их содержанием.\n\nМаксимальное количество поддерживаемых подразделений зависит от численности  §Hнаселения§! страны и §Hколичества приобретенных территорий§!, а затем умножается на отношение этого значения к §Hколичеству фабрик§! в регионах.\n\nВо время §Hгражданских войн§!, базовое значение рассчитывается из суммы всех состояний, принадлежащих всем участникам. [above_unit_limit_desc]"
+ civil_war_bonus:0 "Бонус гражданской войны: §G%100§!"
+
+ unit_limit_desc_fake_intel:0 "(§HПоддельные дивизии§! не учитываются при определении лимита дивизионов)"
+
+ unit_limit_desc_above_limit:0 "\n\n--------------\n\n§RВ настоящее время мы превысили свои возможности, и единственным способом облегчить нагрузку на нашу страну будет удаление некоторых из наших дивизий.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
+
+ unit_limit_noncore_population_desc:0 "\n   - из ненациональных территорий: [?non_core_base|G1]"
+ unit_limit_subject_population_bonus_desc:0 "\n   - из §Hсубъекта§! популяции: [?subject_base_units|G1]"
+ unit_limit_subject_state_bonus_desc:0 "\n   - из §Hсубьекта§! регионов: [?subject_states|G0]"
+ unit_limit_modifier_was_capped_desc:0 "\n(С ограничением до минимума [?0.5|H%])"
+ unit_limit_modified_by_desc:0 "\n\nИзменено дополнительно:"
+ unit_limit_faction_leader_desc:0 "\n   - Лидер альянса: §G+15%§!"
+ unit_limit_bonus_used_desc:0 "\nНациональные духи: [?modifier@unit_limit_bonus|=+0]"
+ unit_limit_has_war_desc:0 "\n   - В состоянии войны: §G+20%§!"
+ unit_limit_fascism_desc:0 "\n   - Фашизм: §G+10%§!"
+ unit_limit_communism_desc:0 "\n   - Коммунизм: §G+10%§!"
+ unit_limit_neutrality_desc:0 "\n   - Нейтралитет: §G+5%§!"
+ unit_limit_was_capped_desc:0 "\n\n   - Итого без ограничений: [?net_max_divisions|H0]"
+ unit_limit_num_states_used_desc:0 "\n\n   Because the total provided was lower than the number of owned states ([?num_owned_states|H0]), that was used instead."
+ unit_limit_default_used_desc:0 "\n\n   Because the total provided was less than the default (§H5§!), that was used instead."
+
+ unit_limit_low_economic_mobilisation:0 "\n   - §H$low_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_partial_economic_mobilisation:0 "\n   - §H$partial_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_war_economy:0 "\n   - §H$war_economy$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ unit_limit_tot_economic_mobilisation:0 "\n   - §H$tot_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+ 
+ bonus_100:0 "%100"
+ bonus_60:0 "%60"

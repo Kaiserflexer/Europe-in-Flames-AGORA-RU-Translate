@@ -1,9 +1,9 @@
-﻿l_english:
- IB_switching_UI_decisions:0 "About topbar UI"
- IB_switching_UI_decisions_desc:0 "If the newly added UI displaying the number of factories and the size of the army next to the experience value display on the screen is in the way, or if it clashes with the other UI due to screen resolution issues, you can switch the display by manipulating this decision."
- IB_switching_IC:0 "Factory UI ON/OFF"
- IB_switching_other:0 "Military UI ON/OFF"
- IB_delete_this_decisions:0 "Delete this decisions"
+﻿l_russian:
+ IB_switching_UI_decisions:0 "Об интерфейсе Topbar UI"
+ IB_switching_UI_decisions_desc:0 "Если недавно добавленный пользовательский интерфейс, отображающий количество фабрик и численность армии рядом с отображением значения опыта на экране, мешает или конфликтует с другим пользовательским интерфейсом из-за проблем с разрешением экрана, вы можете переключить отображение, воспользовавшись этим решением."
+ IB_switching_IC:0 "UI Фабрик Вкл/Выкл"
+ IB_switching_other:0 "UI военных заводов Вкл/Выкл"
+ IB_delete_this_decisions:0 "Удалить эти решения"
 
  IB_CIV_FAC_VAL:0 "[?ROOT.num_of_civilian_factories|0]"
  IB_MIL_FAC_VAL:0 "[?ROOT.num_of_military_factories|0]"

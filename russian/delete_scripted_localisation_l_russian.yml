@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
  religion_icon_pdx_tooltip:0 "[EQA.GET_religion_effects_or_no_effects][EQA.GET_religion_political_power_loc][EQA.GET_religion_war_support_loc][EQA.GET_religion_army_defense_loc][EQA.GET_religion_army_attack_loc][EQA.GET_religion_conscription_loc][EQA.GET_religion_research_speed_loc][EQA.GET_religion_stability_loc][EQA.GET_religion_communism_loc][EQA.GET_religion_democratic_loc][EQA.GET_religion_fascism_loc][EQA.GET_religion_neutrality_loc]"
  EQA_religion_header:0 "[EQA.GET_religion_level_loc]"
  GET_religion_level_syncretism_1:0 "Economy: §REastern§! +1"

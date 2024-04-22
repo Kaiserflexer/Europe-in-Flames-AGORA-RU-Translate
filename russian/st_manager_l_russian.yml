@@ -22,7 +22,7 @@
  transfer_states_on:0 "State Transfer Tool: £trigger_no"
  transfer_states_off:0 "State Transfer Tool: £trigger_yes"
  
- mark_status_marked:0   "     Снять отметку "
+ mark_status_marked:0   " Снять отметку "
  mark_status_unmarked:0 " Отметить регион  "
  
  RULE_ALLOW_SUBJECT_TRANSFERS:0 "Передача провинций между субъектами ИИ"
@@ -30,7 +30,7 @@
  RULE_ALLOW_SUBJECT_TRANSFERS_LOW_AUTONOMY_ONLY_DESC:0 "Только субъекты с низким уровнем автономии (ниже уровня колонии)"
  RULE_ALLOW_SUBJECT_TRANSFERS_BLOCKED_DESC:0 "Запретить передачу состояний субъектов"
  
- RULE_USE_NEW_TOOL:0 "Используйте новую версию мода"
+ RULE_USE_NEW_TOOL:0 "Использовать новую версию мода"
  
  GIVE_STATE_ACTION_TITLE:0 "Передать провинции"
  GIVE_STATE_ACTION_ACTION_DESC:0 "Передать провинции выбранной стране"

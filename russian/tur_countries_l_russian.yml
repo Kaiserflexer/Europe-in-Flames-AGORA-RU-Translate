@@ -1,15 +1,15 @@
-﻿l_english:
- TUR_huseyin_nihal_atsiz:0 "Hüseyin Nihal Atsız"
- TUR_nihal_atsiz_movement:0 "Nihal Atsız Movement"
- TUR_nihal_atsiz_movement_desc:0 "Nihal Atsız's writings have become very popular among the public, I wonder if he will be able to use this in politics?"
- TUR_the_grey_wolf_has_reborn:0 "The Grey Wolf Has Reborn"
- TUR_the_grey_wolf_has_reborn_desc:0 "They thought we were dead they thought they would never see us again but they were wrong. Today we rise once again to rule the world."
- TUR_select_road:0 "What is Turanism?"
- TUR_select_road_desc:0 "Turkish Islamic synthesis or the idea of the unification of the Turkic peoples completely free of Arabization? We have to decide this."
- TUR_turanist_assimilation_for_kurdistan:0 "Turanist Assimilation For Mountain Turks"
- TUR_turanist_assimilation_for_kurdistan_desc:0 "Some Turks, who have forgotten who they are because they have been separated from other Turkic tribes, have called themselves Kurds and want to separate from us. We need to remind them who they are."
- TUR_kurdish_asimilation:0 "Kurdish Assimilation"
- TUR_turanist_decision_0:0 "Turanist Propaganda"
- TUR_turanist_decision_1:0 "Turanist Propaganda"
- turanist_kemalist_loyalties:0 "Kemalists Supporting Turan"
- TUR_ataturk_health_crisis:0 "Concerned with the Disease of the Father of Turks"
+﻿l_russian:
+ TUR_huseyin_nihal_atsiz:0 "Хусейн Нихал Ацыз"
+ TUR_nihal_atsiz_movement:0 "Движение Нихала Атсыза"
+ TUR_nihal_atsiz_movement_desc:0 "Писания Нихала Атсыза стали очень популярны среди населения, интересно, сможет ли он использовать это в политике?"
+ TUR_the_grey_wolf_has_reborn:0 "Серый волк возродился"
+ TUR_the_grey_wolf_has_reborn_desc:0 "Они думали, что мы мертвы, думали, что никогда больше не увидят нас, но они ошибались. Сегодня мы снова восстали, чтобы править миром".
+ TUR_select_road:0 "Что такое туранство?"
+ TUR_select_road_desc:0 "Турецкий исламский синтез или идея объединения тюркских народов, полностью свободных от арабизации? Мы должны решить это".
+ TUR_turanist_assimilation_for_kurdistan:0 "Туранская ассимиляция для горных турок"
+ TUR_turanist_assimilation_for_kurdistan_desc:0 "Некоторые турки, которые забыли, кто они такие, потому что были отделены от других тюркских племен, назвали себя курдами и хотят отделиться от нас. Мы должны напомнить им, кто они такие".
+ TUR_kurdish_asimilation:0 "Ассимиляция курдов"
+ TUR_turanist_decision_0:0 "Пропаганда туранцев"
+ TUR_turanist_decision_1:0 "Туранистская пропаганда"
+ turanist_kemalist_loyalties:0 "Кемалисты поддерживают Турана"
+ TUR_ataturk_health_crisis:0 "Озабоченность болезнью отца турок"
